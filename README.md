@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shushri/Leetcode-Problems/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shushri/Leetcode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
