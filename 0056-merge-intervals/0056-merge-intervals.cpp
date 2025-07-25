@@ -2,9 +2,7 @@ class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& i) {
         
-        sort(i.begin(),i.end(),[](vector<int> a,vector<int> b){
-            return a[0]<b[0];
-        });
+        sort(i.begin(),i.end());
     vector<vector<int>> ans={{i[0][0],i[0][1]}};
     int k=0;
     for (int j=1;j<i.size();j++){
