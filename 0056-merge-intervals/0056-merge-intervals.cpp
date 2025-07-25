@@ -1,24 +1,16 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& i) {
-        
-        sort(i.begin(),i.end());
-    vector<vector<int>> ans={{i[0][0],i[0][1]}};
-    int k=0;
-    for (int j=1;j<i.size();j++){
-            
-            if(ans[k][1]>=i[j][0]){
-                int mx=max(i[j][1],ans[k][1]);
-                ans[k][1]=mx;
+    vector<vector<int>> merge(vector<vector<int>>& arr) {
+        sort(arr.begin(),arr.end());
+        vector<vector<int>> ans;
+        for (int i=0;i<arr.size();i++){
+            if(ans.empty() || ans.back()[1]<arr[i][0]){
+                ans.push_back({arr[i][0],arr[i][1]});
             }
             else{
-                ans.push_back({i[j][0],i[j][1]});
-                k++;
-                
+                ans.back()[1]=max(ans.back()[1],arr[i][1]);
             }
-            
         }
-        
-    return ans;
+      return ans;
     }
 };
