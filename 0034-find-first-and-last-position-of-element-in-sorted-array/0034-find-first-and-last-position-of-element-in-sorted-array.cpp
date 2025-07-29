@@ -1,48 +1,44 @@
 class Solution {
 public:
-    int lower_b(vector<int>& nums,int n, int t){
-        int low=0;
-        int high=n-1;
-        int ans=n;
+    int f_occ(vector<int>& arr,int n,int t){
+        int low=0; int high=n-1;
+        int first=-1;
         while(low<=high){
             int mid=(low+high)/2;
-            if(nums[mid]>=t){
-                ans=mid;
+            if(arr[mid]==t){
+                first=mid;
+                high=mid-1;
+            }
+            else if(arr[mid]>t){
                 high=mid-1;
             }
             else{
                 low=mid+1;
             }
         }
-        return ans;
-            
+        return first;
     }
-
-    int upper_b(vector<int>& nums,int n, int t){
-        int low=0;
-        int high=n-1;
-        int ans=n;
+    int l_occ(vector<int>& arr,int n,int t){
+        int low=0; int high=n-1;
+        int last=-1;
         while(low<=high){
             int mid=(low+high)/2;
-            if(nums[mid]>t){
-                ans=mid;
+            if(arr[mid]==t){
+                last=mid;
+                low=mid+1;
+            }
+            else if(arr[mid]>t){
                 high=mid-1;
-
             }
             else{
                 low=mid+1;
             }
         }
-        return ans;
+        return last;
     }
 
     vector<int> searchRange(vector<int>& nums, int target) {
         int n=nums.size();
-        int lb=lower_b(nums,n,target);
-        if(lb==n || nums[lb]!=target){
-            return {-1,-1};
-        }
-        return {lb,upper_b(nums,n,target)-1};
-
+        return {f_occ(nums,n,target),l_occ(nums,n,target)};
     }
 };
