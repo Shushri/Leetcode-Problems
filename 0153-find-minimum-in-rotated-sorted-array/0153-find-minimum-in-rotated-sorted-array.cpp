@@ -6,7 +6,11 @@ public:
         int high=n-1;
         int ans=INT_MAX;
         while(low<=high){
-            int mid=(low+high)/2;
+              int mid=(low+high)/2;
+                if(a[low]<a[high]){
+                    ans=min(a[low],ans);
+                    break;    
+                }
               if(a[low]<=a[mid]){
                 ans=min(ans,a[low]);
                 low=mid+1;
