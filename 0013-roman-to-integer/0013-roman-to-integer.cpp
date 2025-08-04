@@ -1,24 +1,53 @@
 class Solution {
 public:
+    
     int romanToInt(string s) {
-        unordered_map<char,int> mpp;
-        mpp['I']=1;
-        mpp['V']=5;
-        mpp['X']=10;
-        mpp['L']=50;
-        mpp['C']=100;
-        mpp['D']=500;
-        mpp['M']=1000;
-        int ans=mpp[s[0]];
         
-        for (int i=1;i<s.size();i++){
-            if(mpp[s[i]]>mpp[s[i-1]]){
-                ans+=(mpp[s[i]]-2*mpp[s[i-1]]);
+           
+            int ans=0;
+            for (int i=0;i<s.size();i++){
+                if(s[i]=='I' && s[i+1]=='V'){
+                    ans+=4;i++;
+                }
+                else if(s[i]=='I' && s[i+1]=='X'){
+                    ans+=9;i++;
+                }
+                else if(s[i]=='X' && s[i+1]=='L'){
+                    ans+=40;i++;
+                }
+                else if(s[i]=='X' && s[i+1]=='C'){
+                    ans+=90;i++;
+                }
+                else if(s[i]=='C' && s[i+1]=='D'){
+                    ans+=400;i++;
+                }
+                else if(s[i]=='C' && s[i+1]=='M'){
+                    ans+=900;i++;
+                }
+                else if(s[i]=='I'){
+                    ans+=1;
+                }
+                else if(s[i]=='V'){
+                    ans+=5;
+                }
+                else if(s[i]=='X'){
+                    ans+=10;
+                }
+                else if(s[i]=='L'){
+                    ans+=50;
+                }
+                else if(s[i]=='C'){
+                    ans+=100;
+                }
+                else if(s[i]=='D'){
+                    ans+=500;
+                }
+                else if(s[i]=='M'){
+                    ans+=1000;
+                }
+
             }
-            else{
-                ans+=mpp[s[i]];
-            }
-        }
+
         return ans;
     }
 };
