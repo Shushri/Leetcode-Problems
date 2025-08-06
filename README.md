@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shushri/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shushri/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Shushri/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Shushri/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/Shushri/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 ## Recursion
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Shushri/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Shushri/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Shushri/Leetcode-Problems/tree/master/0067-add-binary) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shushri/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
@@ -117,9 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shushri/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Shushri/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Shushri/Leetcode-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
