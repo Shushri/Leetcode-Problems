@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shushri/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shushri/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Shushri/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/Shushri/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shushri/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Shushri/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/Shushri/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 ## String
 |  |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shushri/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shushri/Leetcode-Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
