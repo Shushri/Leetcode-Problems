@@ -15,13 +15,12 @@ public:
         while(left--){
             ans+='0';
         }
-        reverse(ans.begin(),ans.end());
         return ans;
     }
     int B2D(string s){
         int ans=0;
         long long int p2=1;
-        for (int i=0;i<s.size();i++){
+        for (int i=s.size()-1;i>=0;i--){
             if(s[i]=='1'){
                 ans+=p2;
             }
@@ -31,7 +30,6 @@ public:
     }
     int reverseBits(int n) {
         string s=D2B(n);
-        int ans= B2D(s);
-        return ans;;
+        return B2D(s);
     }
 };
