@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Shushri/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Shushri/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shushri/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Shushri/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shushri/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shushri/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
