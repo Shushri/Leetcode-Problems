@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shushri/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shushri/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0383-ransom-note](https://github.com/Shushri/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shushri/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3447-clear-digits](https://github.com/Shushri/Leetcode-Problems/tree/master/3447-clear-digits) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shushri/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/Shushri/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Shushri/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shushri/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Shushri/Leetcode-Problems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
