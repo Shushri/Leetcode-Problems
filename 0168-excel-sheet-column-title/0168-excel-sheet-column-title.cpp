@@ -7,13 +7,9 @@ public:
             n=n/26;
             if(r==0){
                 r=26;
+                n=n-1;
             }
-            ans=(char)(65+r-1)+ans;
-            if(r==26 && n==1){
-                break;
-            }
-           
-            
+            ans=(char)(65+r-1)+ans;  
         }
         return ans;
     }
