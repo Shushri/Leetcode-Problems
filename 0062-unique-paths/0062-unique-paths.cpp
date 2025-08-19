@@ -6,10 +6,7 @@ public:
           int q=(m+n-2);
           long long ans=1;
           for(int i=1;i<=r;i++){
-            ans*=(q-r+i);
-          }
-          for(int i=1;i<=r;i++){
-            ans/=i;
+            ans=ans*(q-r+i)/i;
           }
           return (int)ans;
     }
