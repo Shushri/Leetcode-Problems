@@ -1,18 +1,40 @@
 class Solution {
 public:
-    bool isPalindrome(string st) {
-        string s="";
-        for (int i=0;i<st.size();i++){
-
-            if((st[i]>='a' && st[i]<='z') || (st[i]>='A' && st[i]<='Z') || (st[i]>='0' && st[i]<='9')){
-                s+=tolower(st[i]);
-                
-            }
+    bool cond(char c){
+        if((c>='a' && c<='z') || (c>='0' && c<='9')){
+            return true;
         }
-        string ts=s;
-        cout<<s<<" "<<ts<<endl;
-        reverse(s.begin(),s.end());
-        cout<<s<<" "<<ts<<endl;
-        return s==ts;
+        return false;
+    }
+    bool isPalindrome(string st) {
+        int n=st.size();
+        int l=0;
+        int h=n-1;
+        while(l<=h){
+             if(cond(tolower(st[l])) && cond(tolower(st[h]))){
+                if(tolower(st[l])!=tolower(st[h])){
+                    return false;
+                }
+                else{
+                    l++;
+                    h--;
+                }
+                
+             }
+             else if(!cond(tolower(st[l])) && !cond(tolower(st[h]))){
+                l++;h--;
+             }
+             else if(!cond(tolower(st[l]))){
+                l++;
+             }
+             else if(!cond(tolower(st[h]))){
+                h--;
+             }
+             else{
+
+             }
+
+        }
+        return true;
     }
 };
