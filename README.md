@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Shushri/Leetcode-Problems/tree/master/0027-remove-element) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Shushri/Leetcode-Problems/tree/master/0027-remove-element) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/Shushri/Leetcode-Problems/tree/master/0561-array-partition) |
