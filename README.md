@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shushri/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shushri/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shushri/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Shushri/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Shushri/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shushri/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shushri/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Shushri/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/Shushri/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shushri/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shushri/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Shushri/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/Shushri/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Shushri/Leetcode-Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Shushri/Leetcode-Problems/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
