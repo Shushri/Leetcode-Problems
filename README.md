@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shushri/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Shushri/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Shushri/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shushri/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shushri/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shushri/Leetcode-Problems/tree/master/0125-valid-palindrome) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shushri/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Shushri/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Shushri/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Shushri/Leetcode-Problems/tree/master/0066-plus-one) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Shushri/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shushri/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Shushri/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shushri/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Shushri/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Shushri/Leetcode-Problems/tree/master/0290-word-pattern) |
