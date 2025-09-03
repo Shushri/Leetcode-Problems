@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Shushri/Leetcode-Problems/tree/master/0274-h-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Shushri/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/Shushri/Leetcode-Problems/tree/master/0493-reverse-pairs) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shushri/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Shushri/Leetcode-Problems/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Shushri/Leetcode-Problems/tree/master/0561-array-partition) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shushri/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Shushri/Leetcode-Problems/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Shushri/Leetcode-Problems/tree/master/0561-array-partition) |
 ## Memoization
 |  |
