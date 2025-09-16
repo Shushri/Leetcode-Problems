@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Shushri/Leetcode-Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Shushri/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/Shushri/Leetcode-Problems/tree/master/2050-count-good-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Shushri/Leetcode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Shushri/Leetcode-Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shushri/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shushri/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shushri/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shushri/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shushri/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shushri/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3447-clear-digits](https://github.com/Shushri/Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
