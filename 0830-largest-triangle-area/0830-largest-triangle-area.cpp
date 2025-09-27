@@ -1,17 +1,13 @@
 class Solution {
 public:
-    double largestTriangleArea(vector<vector<int>>& points) {
+    double largestTriangleArea(vector<vector<int>>& p) {
         
         double ar=0.0;
-        int n=points.size();
+        int n=p.size();
         for(int i=0;i<n-2;i++){
             for(int j=i+1;j<n-1;j++){
                 for(int k=j+1;k<n;k++){
-                    double ar1 = 0.5 * abs(
-                        points[i][0] * (points[j][1] - points[k][1]) +
-                        points[j][0] * (points[k][1] - points[i][1]) +
-                        points[k][0] * (points[i][1] - points[j][1])
-                    );
+                    double ar1 = abs((p[j][0]-p[i][0])*(p[k][1]-p[i][1])-(p[k][0]-p[i][0])*(p[j][1]-p[i][1]))*0.5;
                     
                     ar=max(ar,ar1);
                 }
