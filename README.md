@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Shushri/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shushri/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shushri/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Shushri/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Shushri/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0682-baseball-game) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Shushri/Leetcode-Problems/tree/master/0155-min-stack) |
 | [3678-design-task-manager](https://github.com/Shushri/Leetcode-Problems/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Shushri/Leetcode-Problems/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Shushri/Leetcode-Problems/tree/master/3827-implement-router) |
