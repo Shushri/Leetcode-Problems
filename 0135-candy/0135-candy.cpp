@@ -14,16 +14,15 @@ public:
                 ans[i]=ans[i-1]+1;
             }
         }
+        int sum=0;
         for(int i=n-1;i>0;i--){
             if(r[i-1]>r[i]){
                 ans[i-1]=max(ans[i-1],ans[i]+1);
             }
+            sum+=ans[i-1];
         }
-        int sum=0;
-        for(auto ele:ans){
-            cout<<ele<<"  ";
-            sum+=ele;
-        }
-        return sum;
+        
+        
+        return sum+ans[n-1];
     }
 };
