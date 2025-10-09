@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Shushri/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Shushri/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Shushri/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shushri/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0263-ugly-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shushri/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shushri/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Shushri/Leetcode-Problems/tree/master/0228-summary-ranges) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shushri/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Shushri/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shushri/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shushri/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
