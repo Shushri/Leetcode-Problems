@@ -1,21 +1,22 @@
 class Solution {
 public:
-    int climbStairs(int n) {
-        int sum=1;
-        if(n==1){
+
+    
+    int count(int n, int c,vector<int>&dp){
+        if(c>n) return 0;
+        if(c==n){
             return 1;
         }
-        else if(n==2){
-            return 2;
+        if(dp[c]!=-1){
+            return dp[c];
         }
-        int a=1;
-        int b=2;
-        sum=a+b;
-        for(int i=3;i<n;i++){
-            a=b;
-            b=sum;
-            sum=a+b;
-        }
-        return sum;
+        dp[c]=count(n,c+1,dp)+count(n,c+2,dp);
+        return dp[c];
+        
+    }
+    int climbStairs(int n) {
+        vector<int> dp(n+1,-1);
+        return count(n,0,dp);
+        
     }
 };
