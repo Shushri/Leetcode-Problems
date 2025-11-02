@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Shushri/Leetcode-Problems/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Shushri/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Shushri/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Shushri/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shushri/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Shushri/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shushri/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0392-is-subsequence) |
