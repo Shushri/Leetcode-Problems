@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shushri/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Shushri/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/Shushri/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Shushri/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
@@ -466,10 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
