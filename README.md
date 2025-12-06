@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Shushri/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/Shushri/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shushri/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Shushri/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Shushri/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Shushri/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/Shushri/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Shushri/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Shushri/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Shushri/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shushri/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Shushri/Leetcode-Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shushri/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
