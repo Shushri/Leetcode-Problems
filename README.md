@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shushri/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shushri/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/Shushri/Leetcode-Problems/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3797-design-spreadsheet](https://github.com/Shushri/Leetcode-Problems/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Shushri/Leetcode-Problems/tree/master/3827-implement-router) |
 ## Two Pointers
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shushri/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/Shushri/Leetcode-Problems/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Dynamic Programming
 |  |
 | ------- |
