@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Shushri/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Shushri/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shushri/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Shushri/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shushri/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Shushri/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Shushri/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shushri/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
