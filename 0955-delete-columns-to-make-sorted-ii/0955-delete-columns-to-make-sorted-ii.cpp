@@ -3,8 +3,8 @@ public:
     int minDeletionSize(vector<string>& strs) {
         int n=strs.size();
         int k=strs[0].size();
-        vector<int> sorted(n,0);
-        vector<int> removed(k,0);
+        bitset<100> sorted=0;
+        bitset<100> removed=0;
         for(int i=0;i<k;i++){
             for(int j=0;j<n-1;j++){
                 if(!sorted[j] && strs[j][i]>strs[j+1][i]){
@@ -20,12 +20,7 @@ public:
                 }
             }
         }
-        int c=0;
-        for(int i=0;i<k;i++){
-            if(removed[i]){
-                c++;
-            }
-        }
-        return c;
+        
+        return removed.count();
     }
 };
