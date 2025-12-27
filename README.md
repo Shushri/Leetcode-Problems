@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shushri/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shushri/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/Shushri/Leetcode-Problems/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Shushri/Leetcode-Problems/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3797-design-spreadsheet](https://github.com/Shushri/Leetcode-Problems/tree/master/3797-design-spreadsheet) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shushri/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Shushri/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Shushri/Leetcode-Problems/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shushri/Leetcode-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## String Matching
 |  |
 | ------- |
