@@ -1,16 +1,16 @@
 class Solution {
 public:
     int arrangeCoins(int n) {
-        int c=1;
-        int ans=0;
-        while (n>0){
-            if(n>=c){
-                ans++;
+        long long p=1;
+        long long s=p*(p+1)/2;
+        while(true){
+            if(s>n){
+                break;
             }
-            n-=c;
-            c++;
+            p++;
+            s=p*(p+1)/2;
         }
-        return ans;
+        return (int)(--p);
 
         
     }
