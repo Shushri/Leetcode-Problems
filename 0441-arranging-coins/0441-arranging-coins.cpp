@@ -1,16 +1,15 @@
 class Solution {
 public:
     int arrangeCoins(int n) {
-        long long p=1;
-        long long s=p*(p+1)/2;
-        while(true){
-            if(s>n){
-                break;
-            }
-            p++;
-            s=p*(p+1)/2;
+        long long s=floor(sqrt(1LL*2*n));
+        long long  p=s*(s+1)/2;
+        long long q=(s-1)*(s)/2;
+        if(p<=(long long)n){
+            return (int)s; 
         }
-        return (int)(--p);
+        else{
+            return (int)s-1;
+        }
 
         
     }
