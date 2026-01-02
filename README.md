@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Shushri/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shushri/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Shushri/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Shushri/Leetcode-Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Shushri/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Shushri/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0840-magic-squares-in-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shushri/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Shushri/Leetcode-Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shushri/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
