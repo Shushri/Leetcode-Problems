@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Shushri/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Shushri/Leetcode-Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1137-n-th-tribonacci-number](https://github.com/Shushri/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shushri/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1668-maximum-repeating-substring](https://github.com/Shushri/Leetcode-Problems/tree/master/1668-maximum-repeating-substring) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shushri/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
