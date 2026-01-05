@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Shushri/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shushri/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shushri/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1975-maximum-matrix-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shushri/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Shushri/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Shushri/Leetcode-Problems/tree/master/1448-maximum-69-number) |
+| [1975-maximum-matrix-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shushri/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Shushri/Leetcode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Shushri/Leetcode-Problems/tree/master/3781-maximum-score-after-binary-swaps) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Shushri/Leetcode-Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1975-maximum-matrix-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shushri/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Shushri/Leetcode-Problems/tree/master/3797-design-spreadsheet) |
 ## Backtracking
