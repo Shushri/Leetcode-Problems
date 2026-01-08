@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shushri/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Shushri/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shushri/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shushri/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Shushri/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shushri/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Shushri/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shushri/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shushri/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shushri/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Shushri/Leetcode-Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Shushri/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shushri/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shushri/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Shushri/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shushri/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Shushri/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2211-count-collisions-on-a-road](https://github.com/Shushri/Leetcode-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shushri/Leetcode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
