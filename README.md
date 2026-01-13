@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Shushri/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Shushri/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Shushri/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Shushri/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Shushri/Leetcode-Problems/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Shushri/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Shushri/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Shushri/Leetcode-Problems/tree/master/0645-set-mismatch) |
