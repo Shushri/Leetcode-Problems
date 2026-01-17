@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Shushri/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Shushri/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [0636-exclusive-time-of-functions](https://github.com/Shushri/Leetcode-Problems/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Shushri/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/Shushri/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0682-baseball-game) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shushri/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Shushri/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Shushri/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0636-exclusive-time-of-functions](https://github.com/Shushri/Leetcode-Problems/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
