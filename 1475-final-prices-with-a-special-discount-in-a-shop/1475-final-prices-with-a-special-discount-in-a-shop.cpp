@@ -1,17 +1,17 @@
 class Solution {
 public:
     vector<int> finalPrices(vector<int>& p) {
-        
+        stack<int> st;        
         int n=p.size();
         for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(p[j]<=p[i]){
-                    p[i]=p[i]-p[j];
-                    break;
-                }
+            while(!st.empty() && p[i]<=p[st.top()]){
+                p[st.top()]=p[st.top()]-p[i];
+                st.pop();
             }
+            st.push(i);
         }
         return p;
     }
 };
+
 
