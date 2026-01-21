@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shushri/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shushri/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shushri/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shushri/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Shushri/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shushri/Leetcode-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## String Matching
 |  |
