@@ -8,7 +8,7 @@ public:
         vector<long long> pse(n);
 
         for(int i=0;i<n;i++){
-            while(!st.empty() && arr[i]<arr[st.top()]){
+            while(!st.empty() && arr[i]<=arr[st.top()]){
                 nse[st.top()]=i;
                 st.pop();
             }
@@ -21,7 +21,7 @@ public:
 
 
         for(int i=n-1;i>=0;i--){
-            while(!st.empty() && arr[i]<=arr[st.top()]){   //important
+            while(!st.empty() && arr[i]<arr[st.top()]){   //important
                 pse[st.top()]=i;
                 st.pop();
             }
