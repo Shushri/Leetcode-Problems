@@ -1,67 +1,42 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    /* Function to find the smallest possible 
-    integer after removing k digits */
-    string removeKdigits(string nums, int k) {
+    string removeKdigits(string num, int k) {
+        stack<char> st;
+        int n=num.size();
         
-        stack <char> st; // Stack
-        
-        // Traverse on the given string
-        for(int i=0; i < nums.size(); i++) {
-            
-            // Current digit
-            char digit = nums[i];
-            
-            /* Pop last digits (when possible)
-            if a smaller digit is found*/
-            while(!st.empty() && k > 0
-                  && st.top() > digit) {
-
-                st.pop(); // Pop the last digit
-                k--; // Decrement K by 1
+        if(n==k){
+            return "0";
+        }
+        for(int i=0;i<n;i++){
+            while(!st.empty() && k>0 && num[i]<st.top()){
+                st.pop();
+                k--;
+                
             }
-            
-            // Push the current digit
-            st.push(digit);
+            st.push(num[i]);
+        }
+
+        while(k){
+            st.pop();
+            k--;
         }
         
-        // If more digits can be removed
-        while(!st.empty() && k > 0) {
-            
-            st.pop(); // Pop the last added digits
-            k--; // Decrement K by 1
-        }
-        
-        // Handling edge case
-        if(st.empty()) return "0";
-        
-        // To store the result
-        string res = "";
-        
-        // Adding digits in stack to result
-        while(!st.empty()) {
-            res.push_back(st.top());
+        string ans="";
+        stack<char> st2;
+        while(!st.empty()){
+            st2.push(st.top());
             st.pop();
         }
-        
-        // Trimming the zeroes at the back
-        while(res.size() > 0 && 
-              res.back() == '0') {
-
-            res.pop_back();
+        while(!st2.empty() && st2.top()=='0'){
+            st2.pop();
         }
-        
-        // Reverse to get the actual number
-        reverse(res.begin(), res.end());
-        
-        // Edge case
-        if(res.empty()) return "0";
-        
-        // Return the stored result
-        return res;
+        while(!st2.empty()){
+            ans+=st2.top();
+            st2.pop();
+        }
+        if(ans.size()==0){
+            return "0";
+        }
+        return ans;
     }
 };
-
