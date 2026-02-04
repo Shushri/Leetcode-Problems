@@ -21,7 +21,7 @@ public:
                 i++;
 
             }
-            cout<<s[i]<<" "<<s[j]<<endl;
+            
             ans=max(ans,j-i);
         }
         return ans;
