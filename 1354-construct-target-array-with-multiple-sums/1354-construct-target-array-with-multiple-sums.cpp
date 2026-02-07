@@ -16,9 +16,9 @@ public:
             if(sm>=tp || sm<=0){
                 return false;
             }
-            tp=tp%sm;
+            tp=tp%sm==0?sm:tp%sm;
             sm+=tp;
-            pq.push(tp>0?tp:sm);
+            pq.push(tp);
         }
         return true;
         
