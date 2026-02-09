@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Shushri/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shushri/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shushri/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shushri/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/Shushri/Leetcode-Problems/tree/master/1668-maximum-repeating-substring) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shushri/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shushri/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shushri/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shushri/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Shushri/Leetcode-Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shushri/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shushri/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shushri/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shushri/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shushri/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shushri/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shushri/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
