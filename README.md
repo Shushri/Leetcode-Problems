@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Shushri/Leetcode-Problems/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Shushri/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0831-masking-personal-information](https://github.com/Shushri/Leetcode-Problems/tree/master/0831-masking-personal-information) |
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shushri/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
