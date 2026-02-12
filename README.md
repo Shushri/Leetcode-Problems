@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/Shushri/Leetcode-Problems/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3713-longest-balanced-substring-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Shushri/Leetcode-Problems/tree/master/3781-maximum-score-after-binary-swaps) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shushri/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Shushri/Leetcode-Problems/tree/master/3678-design-task-manager) |
+| [3713-longest-balanced-substring-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3797-design-spreadsheet](https://github.com/Shushri/Leetcode-Problems/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Shushri/Leetcode-Problems/tree/master/3827-implement-router) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shushri/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shushri/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3713-longest-balanced-substring-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shushri/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shushri/Leetcode-Problems/tree/master/0204-count-primes) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Union Find
 |  |
 | ------- |
