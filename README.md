@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Shushri/Leetcode-Problems/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Shushri/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Shushri/Leetcode-Problems/tree/master/0831-masking-personal-information) |
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shushri/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Shushri/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/Shushri/Leetcode-Problems/tree/master/1668-maximum-repeating-substring) |
 ## Simulation
 |  |
