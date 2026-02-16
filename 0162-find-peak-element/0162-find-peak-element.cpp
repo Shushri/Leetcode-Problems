@@ -1,39 +1,27 @@
 class Solution {
 public:
-    int findPeakElement(vector<int>& a) {
-        int n=a.size();
-        
-        
-        if(n==1){
-            return 0;
-        }
-        if(a[0]>a[1]){
-            return 0;
-        }
-        if(a[n-1]>a[n-2]){
-            return n-1;
-        }
-        int low=1;
-        int high=n-2;
-        while(low<=high){
-            int mid=(low+high)/2;
-            //peak element
-            if(a[mid]>a[mid-1] && a[mid]>a[mid+1] ){
+    int findPeakElement(vector<int>& nums) {
+        int n=nums.size();
+        int l=0;
+        int h=n-1;
+        while(l<=h){
+            int mid=l+(h-l)/2;
+            if(l==h){
+                return l;
+            }
+            if(mid-1>=0 && mid+1<n && nums[mid]>=nums[mid-1] && nums[mid]>=nums[mid+1]){
                 return mid;
             }
-            //left side of peak
-            else if(a[mid]>a[mid-1] ){
-                low=mid+1;
-            }
-            //right side of peak
-            else if(a[mid]>a[mid+1] && mid<n-1){
-                high=mid-1;
-            }
-            //lowest pt can go either side
             else{
-                high=mid-1;
+                if(nums[mid]<nums[mid+1]){
+                    l=l+1;
+                }
+                else{
+                    h=h-1;
+                }
             }
+
         }
-        return -1;
+        return l;
     }
 };
