@@ -1,35 +1,21 @@
 class Solution {
 public:
-    string D2B(int n){
-        string ans="";
-        while(n){
-            if(n%2==0){
-                ans+='0';
+    int reverseBits(int n) {
+        int p=0;
+        for(int i=0;i<32;i++){
+            if((n&1)==1){
+                p=p<<1;
+                p=p|1;
+                
+                n=n>>1;
             }
             else{
-                ans+='1';
+                p=p<<1;
+                p=p|0;
+                
+                n=n>>1;
             }
-            n=n/2;
         }
-        int left=32-ans.size();
-        while(left--){
-            ans+='0';
-        }
-        return ans;
-    }
-    int B2D(string s){
-        int ans=0;
-        long long int p2=1;
-        for (int i=s.size()-1;i>=0;i--){
-            if(s[i]=='1'){
-                ans+=p2;
-            }
-            p2=2*p2;
-        }
-        return ans;
-    }
-    int reverseBits(int n) {
-        string s=D2B(n);
-        return B2D(s);
+        return p;
     }
 };
