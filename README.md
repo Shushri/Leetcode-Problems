@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Shushri/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/Shushri/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
+| [0875-koko-eating-bananas](https://github.com/Shushri/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/Shushri/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shushri/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Shushri/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Shushri/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shushri/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Shushri/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
