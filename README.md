@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Shushri/Leetcode-Problems/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Shushri/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/Shushri/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Shushri/Leetcode-Problems/tree/master/0831-masking-personal-information) |
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/Shushri/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shushri/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
