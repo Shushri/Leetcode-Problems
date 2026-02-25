@@ -1,5 +1,11 @@
 class Solution {
 public:
+static bool comp(pair<int,int> &a, pair<int,int> &b){
+            if(a.second==b.second){
+                return a.first<=b.first;
+            }
+            return a.second<=b.second;
+        }
     vector<int> sortByBits(vector<int>& arr) {
         int n=arr.size();
         vector<pair<int,int>> v;
@@ -8,14 +14,9 @@ public:
             v.push_back({arr[i],pp});
         }
         
+        
 
-
-        sort(v.begin(),v.end(),[](auto &a,auto &b){
-            if(a.second==b.second){
-                return a.first<=b.first;
-            }
-            return a.second<=b.second;
-        });
+        sort(v.begin(),v.end(),comp);
 
         vector<int> ans;
         for(auto ele:v){
