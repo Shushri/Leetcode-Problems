@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shushri/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shushri/Leetcode-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shushri/Leetcode-Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shushri/Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/Shushri/Leetcode-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shushri/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shushri/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/Shushri/Leetcode-Problems/tree/master/1668-maximum-repeating-substring) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shushri/Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shushri/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Binary Search
 |  |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shushri/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shushri/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shushri/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shushri/Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shushri/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Shushri/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
