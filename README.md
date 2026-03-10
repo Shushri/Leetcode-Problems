@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shushri/Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shushri/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shushri/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1895-largest-magic-square](https://github.com/Shushri/Leetcode-Problems/tree/master/1895-largest-magic-square) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shushri/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Geometry
