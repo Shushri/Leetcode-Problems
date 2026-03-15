@@ -1,19 +1,39 @@
 class Solution {
 public:
+    int findmxind(int c,vector<vector<int>>& mat){
+        int n=mat.size();
+        int mx=INT_MIN;
+        int ans=-1;
+        for(int i=0;i<n;i++){
+            if(mat[i][c]>mx){
+                ans=i;
+                mx=mat[i][c];
+            }
+        }
+        return ans;
+        
+    } 
     vector<int> findPeakGrid(vector<vector<int>>& mat) {
         int n=mat.size();
         int m=mat[0].size();
         
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                int left=j-1>=0?mat[i][j-1]:-1;
-                int right=j+1<m?mat[i][j+1]:-1;
-                int top=i-1>=0?mat[i-1][j]:-1;
-                int down=i+1<n?mat[i+1][j]:-1;
-                if(mat[i][j]>left && mat[i][j]>right && mat[i][j]>top && mat[i][j]>down){
-                    return {i,j};
-                }
+        int l=0;
+        int h=m-1;
+        while(l<=h){
+            int mid=l+(h-l)/2;
+            int ind=findmxind(mid,mat);
+            int left=mid-1>=0?mat[ind][mid-1]:-1;
+            int right=mid+1<m?mat[ind][mid+1]:-1;
+            if(mat[ind][mid]>left && mat[ind][mid]>right){
+                return {ind,mid};
             }
+            else if(mat[ind][mid]>left){
+                l=mid+1;
+            }
+            else{
+                h=mid-1;
+            }
+
         }
         return {-1,-1};
 
