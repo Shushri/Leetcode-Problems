@@ -865,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shushri/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/Shushri/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Shushri/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shushri/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
