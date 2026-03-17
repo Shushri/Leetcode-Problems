@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shushri/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shushri/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/Shushri/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shushri/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shushri/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Shushri/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Shushri/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Shushri/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0202-happy-number) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Shushri/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shushri/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Shushri/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Shushri/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Shushri/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shushri/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
