@@ -13,9 +13,9 @@ public:
             sort(matrix[i].begin(), matrix[i].end(),greater<int>());
             for (int j = 0; j < m; j++){
                 ans = max(ans, matrix[i][j] * (j + 1));
-                cout<<ans<<" ";
+              //  cout<<ans<<" ";
             }
-            cout<<endl;
+            //cout<<endl;
         }
         return ans;
     }
