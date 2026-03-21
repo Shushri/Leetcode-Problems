@@ -11,55 +11,43 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        vector<int > n1;
-        vector<int > n2;
-        vector<int > n3;
-        ListNode* temp=l1;
-        
-        while(temp!=nullptr){
-            n1.push_back(temp->val);
-            temp=temp->next;
-        }
-
-        temp=l2;
-        while(temp!=nullptr){
-            n2.push_back(temp->val);
-            temp=temp->next;
-        }
+        ListNode* h1=l1;
+        ListNode* h2=l2;
+        ListNode* anshead=new ListNode(-1);
+        ListNode* ans=anshead;
         int c=0;
-        int i=0;
-        while(i<n1.size() && i<n2.size()){
-            int sm=n1[i]+n2[i]+c;
+        while(h1 && h2){
+            int num=h1->val+h2->val+c;
+            c=num/10;
+            ListNode* pp=new ListNode(num%10);
+            ans->next=pp;
+            ans=ans->next;
+            h1=h1->next;
+            h2=h2->next;
+
+        }
+        while(h1){
+            int num=h1->val+c;
+            c=num/10;
+            ListNode* pp=new ListNode(num%10);
+            ans->next=pp;
+            ans=ans->next;
+            h1=h1->next;
             
-            n3.push_back(sm%10);
-            c=sm/10;
-            i++;
-            
         }
-        while(i<n1.size()){
-            int sm=n1[i]+c;
-            n3.push_back(sm%10);
-            c=sm/10;
-            i++;
-        }
-        while(i<n2.size()){
-            int sm=n2[i]+c;
-            n3.push_back(sm%10);
-            c=sm/10;
-            i++;
-        }
-        if(c>0){
-            n3.push_back(c);
-        }
-        ListNode* ans = new ListNode(n3[0]);
-        ListNode* curr = ans;
+        while(h2){
+            int num=h2->val+c;
+            c=num/10;
+            ListNode* pp=new ListNode(num%10);
+            ans->next=pp;
+            ans=ans->next;
 
-        for(int i=1;i<n3.size();i++){
-            curr->next=new ListNode(n3[i]);
-            curr=curr->next;    
+            h2=h2->next;
         }
-        return ans;
-
-
+        if(c){
+            ListNode* pp=new ListNode(1);
+            ans->next=pp;
+        }
+        return anshead->next;
     }
 };
