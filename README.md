@@ -961,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shushri/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
