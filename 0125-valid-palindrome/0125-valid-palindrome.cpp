@@ -1,39 +1,21 @@
 class Solution {
 public:
-    bool cond(char c){
-        if((c>='a' && c<='z') || (c>='0' && c<='9')){
-            return true;
+    bool isPalindrome(string s) {
+        string ss="";
+        for(int i=0;i<s.size();i++){
+            if(tolower(s[i])>='a' && tolower(s[i])<='z'){
+                ss+=tolower(s[i]);
+            }
         }
-        return false;
-    }
-    bool isPalindrome(string st) {
-        int n=st.size();
+        int n=ss.size();
         int l=0;
         int h=n-1;
         while(l<=h){
-             if(cond(tolower(st[l])) && cond(tolower(st[h]))){
-                if(tolower(st[l])!=tolower(st[h])){
-                    return false;
-                }
-                else{
-                    l++;
-                    h--;
-                }
-                
-             }
-             else if(!cond(tolower(st[l])) && !cond(tolower(st[h]))){
-                l++;h--;
-             }
-             else if(!cond(tolower(st[l]))){
-                l++;
-             }
-             else if(!cond(tolower(st[h]))){
-                h--;
-             }
-             else{
-
-             }
-
+            if(ss[l]!=ss[h]){
+                return false;
+            }
+            l++;
+            h--;
         }
         return true;
     }
