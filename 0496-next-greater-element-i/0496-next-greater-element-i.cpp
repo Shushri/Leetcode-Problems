@@ -5,12 +5,12 @@ public:
         stack<int> st;
         int n=nums2.size();
         for(int i=0;i<n;i++){
-            while(!st.empty() && nums2[st.top()]<nums2[i]){
+            while(!st.empty() && nums2[i]>nums2[st.top()]){
                 mpp[nums2[st.top()]]=nums2[i];
                 st.pop();
             }
             st.push(i);
-        }
+        }    
         while(!st.empty()){
             mpp[nums2[st.top()]]=-1;
             st.pop();
@@ -20,5 +20,6 @@ public:
             ans.push_back(mpp[nums1[i]]);
         }
         return ans;
+
     }
 };
