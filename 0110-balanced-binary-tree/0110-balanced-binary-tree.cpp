@@ -16,23 +16,17 @@ public:
             return 0;
         }
         int l=checkh(root->left);
+        if(l==-1) return -1;
         int r=checkh(root->right);
-
+        if(r==-1) return -1;
+        if(abs(l-r)>1){
+            return -1;
+        }
         return max(l,r)+1;
     }
     bool isBalanced(TreeNode* root) {
-        if (root==nullptr){
-            return true;
-        }
         
-        int l=checkh(root->left);
-        int r=checkh(root->right);
-
-        if(abs(l-r)>1){
-            return false;
-        }
-
-        return (isBalanced(root->left) && isBalanced(root->right));
+        return checkh(root)!=-1;
 
         
         
