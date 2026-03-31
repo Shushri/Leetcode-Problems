@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shushri/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Shushri/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shushri/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Shushri/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/Shushri/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shushri/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -658,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shushri/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Shushri/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0840-magic-squares-in-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
