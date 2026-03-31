@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/Shushri/Leetcode-Problems/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Shushri/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/Shushri/Leetcode-Problems/tree/master/1668-maximum-repeating-substring) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Simulation
 |  |
 | ------- |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Shushri/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Shushri/Leetcode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shushri/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shushri/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Shushri/Leetcode-Problems/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Counting Sort
