@@ -11,22 +11,35 @@
  */
 class Solution {
 public:
-    int c=0;
-    void inorder(TreeNode* root){
-        if(root==NULL){
-            return;
+    int lefth(TreeNode* r){
+        int ans=0;
+        TreeNode* root=r;
+        while(root){
+            ans++;
+            root=root->left;
         }
-        inorder(root->left);
-        if(root)c++;
-        inorder(root->right);
-         
+        return ans;
+    }
+    int righth(TreeNode* r){
+        int ans=0;
+        TreeNode* root=r;
+        while(root){
+            ans++;
+            root=root->right;
+        }
+        return ans;
     }
     int countNodes(TreeNode* root) {
-        if(!root){
-            return  0;
-
+        if(root==nullptr){
+            return 0;
         }
-        inorder(root);
-        return c;
+        int lh=lefth(root);
+        int rh=righth(root);
+
+        if(lh==rh){
+            return (1<<lh)-1;
+        }
+
+        return countNodes(root->left)+countNodes(root->right)+1;
     }
 };
