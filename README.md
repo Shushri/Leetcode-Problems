@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Shushri/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/Shushri/Leetcode-Problems/tree/master/0846-hand-of-straights) |
+| [0874-walking-robot-simulation](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Shushri/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/Shushri/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shushri/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/Shushri/Leetcode-Problems/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0874-walking-robot-simulation](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shushri/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
+| [0874-walking-robot-simulation](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Shushri/Leetcode-Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Shushri/Leetcode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
