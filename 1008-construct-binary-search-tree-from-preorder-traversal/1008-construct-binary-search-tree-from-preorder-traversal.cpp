@@ -20,10 +20,11 @@ public:
         stack<TreeNode*> st;
         st.push(root);
         for(int i=1;i<preorder.size();i++){
+            TreeNode* nd=new TreeNode(preorder[i]);
             if(preorder[i]<st.top()->val){
-                TreeNode* nd=new TreeNode(preorder[i]);
+                
                 st.top()->left=nd;
-                st.push(nd);
+                
             }
             else{
                 TreeNode* parent=NULL;
@@ -31,10 +32,11 @@ public:
                     parent=st.top();
                     st.pop();
                 }
-                TreeNode* nd=new TreeNode(preorder[i]);
+                
                 parent->right=nd;
-                st.push(nd);
+                
             }
+            st.push(nd);
         }
         return root;
     }
