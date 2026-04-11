@@ -30,16 +30,10 @@ public:
             }
         }
         if(ans.size()==1){
-            int temp=arr[ans[0]]->val;
-            arr[ans[0]]->val=arr[ans[0]-1]->val;
-            arr[ans[0]-1]->val=temp;
-            
+            swap(arr[ans[0]]->val,arr[ans[0]-1]->val);
         }
         else if(ans.size()==2){
-            int temp=arr[ans[0]-1]->val;
-            arr[ans[0]-1]->val=arr[ans[1]]->val;
-            arr[ans[1]]->val=temp;
-            
+            swap(arr[ans[1]]->val,arr[ans[0]-1]->val);
         }
     }
 };
