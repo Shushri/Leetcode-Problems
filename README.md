@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Shushri/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Shushri/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/Shushri/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shushri/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shushri/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shushri/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Shushri/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Shushri/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0840-magic-squares-in-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
+| [0994-rotting-oranges](https://github.com/Shushri/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Shushri/Leetcode-Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Shushri/Leetcode-Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
