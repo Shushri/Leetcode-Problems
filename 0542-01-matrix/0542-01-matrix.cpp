@@ -19,7 +19,7 @@ public:
             int r=p.first.first;
             int c=p.first.second;
             int d=p.second;
-            vis[r][c]=1;
+            
             dis[r][c]=d;
             if(r-1>=0 && mat[r-1][c]==1 && !vis[r-1][c]){
                 q.push({{r-1,c},d+1});
