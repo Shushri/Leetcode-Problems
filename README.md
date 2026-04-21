@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shushri/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shushri/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shushri/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shushri/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -1176,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Shushri/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Shushri/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Shushri/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Shushri/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shushri/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
