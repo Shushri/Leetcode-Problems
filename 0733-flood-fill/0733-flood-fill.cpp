@@ -9,6 +9,8 @@ public:
         }
         queue<pair<int,int>> q;
         q.push({sr,sc});
+        vector<int> dir={0,1,0,-1};
+        vector<int> dic={1,0,-1,0};
         while(!q.empty()){
             int sz=q.size();
             for(int i=0;i<sz;i++){
@@ -17,21 +19,12 @@ public:
                 int r=nd.first;
                 int c=nd.second;
                 image[r][c]=color;
-                if(r-1>=0 && image[r-1][c]==clr){
-                    //image[r-1][c]=color;
-                    q.push({r-1,c});
-                }
-                if(c-1>=0 && image[r][c-1]==clr){
-                    //image[r][c-1]=color;
-                    q.push({r,c-1});
-                }
-                if(r+1<n && image[r+1][c]==clr){
-                    //image[r+1][c]=color;
-                    q.push({r+1,c});
-                }
-                if(c+1<m && image[r][c+1]==clr){
-                    //image[r][c+1]=color;
-                    q.push({r,c+1});
+                for(int j=0;j<4;j++){
+                    int rw=r+dir[j];
+                    int cl=c+dic[j];
+                    if(rw>=0 && rw<n && cl>=0 && cl<m && image[rw][cl]==clr){
+                        q.push({rw,cl});
+                    }
                 }
             }
         }
