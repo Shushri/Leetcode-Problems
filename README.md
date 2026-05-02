@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shushri/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shushri/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shushri/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Shushri/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shushri/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Shushri/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Shushri/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Shushri/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Shushri/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Shushri/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/0542-01-matrix) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shushri/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shushri/Leetcode-Problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Shushri/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Shushri/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0213-house-robber-ii) |
@@ -982,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Shushri/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Shushri/Leetcode-Problems/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Shushri/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Shushri/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/Shushri/Leetcode-Problems/tree/master/0463-island-perimeter) |
@@ -1188,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Shushri/Leetcode-Problems/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Shushri/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Shushri/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Shushri/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
