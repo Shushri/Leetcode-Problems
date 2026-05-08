@@ -1,28 +1,24 @@
 class Solution {
 public:
-    bool dfs(int nd,int cl, vector<vector<int>>& g,vector<int> &col ){
-        col[nd]=cl;
-        for(auto ele:g[nd]){
-            if(col[ele]==-1 && dfs(ele,!cl,g,col)==false){//ek baar false aa gya to baar baar false hi aaana hai chaaahe bhale hi col[ele]==-1 hai
+    bool dfs(int nd,int cl,vector<vector<int>>& graph, vector<int> &clr){
+        clr[nd]=cl;
+        for(auto ele:graph[nd]){
+            if(clr[ele]==-1 && dfs(ele,!cl,graph,clr)==false){
                 return false;
             }
-            else if(col[ele]==cl){
+            else if(clr[ele]==cl){
                 return false;
             }
         }
         return true;
     }
-    bool isBipartite(vector<vector<int>>& g) {
-        int n=g.size();
-        vector<int> col(n,-1);
+    bool isBipartite(vector<vector<int>>& graph) {
+        int n=graph.size();
+        vector<int> clr(n,-1);//for alternate colours 0 and 1
         for(int i=0;i<n;i++){
-            
-            if(col[i]==-1){
-                if(dfs(i,0,g,col)==false){
-                    return false;
-                }
+            if(clr[i]==-1 && dfs(i,0,graph,clr)==false){
+                return false;
             }
-            
         }
         return true;
 
