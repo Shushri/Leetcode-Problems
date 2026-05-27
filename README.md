@@ -1192,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shushri/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Shushri/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Shushri/Leetcode-Problems/tree/master/0802-find-eventual-safe-states) |
+| [1791-find-center-of-star-graph](https://github.com/Shushri/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shushri/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Shushri/Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
