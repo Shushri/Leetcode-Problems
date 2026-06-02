@@ -2,17 +2,15 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int t) {
         int n=nums.size();
+        unordered_map<int,int> mpp;
         for(int i=0;i<n;i++){
-            int c=t-nums[i];
-            auto it=find(nums.begin(),nums.end(),c);
-            if(it!=nums.end()){
-                if((it-nums.begin())!=i){
-                    int j=it-nums.begin();
-                    return {i,j};
-                }
+            int comp=t-nums[i];
+            if(mpp.count(comp)!=0){
+                return {i,mpp[comp]};
             }
-        }
-        return {0,0};
 
+            mpp[nums[i]]=i;
+        }
+        return {-1,-1};
     }
 };
