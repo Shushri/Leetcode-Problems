@@ -1,18 +1,18 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
+    vector<int> twoSum(vector<int>& nums, int t) {
         int n=nums.size();
-        map<int ,int> hash;
-
-
-        for (int i=0;i<n;i++){
-            int complement=target-nums[i];
-            if(hash.count(complement)!=0 ){
-                return {i,hash[complement]};
+        for(int i=0;i<n;i++){
+            int c=t-nums[i];
+            auto it=find(nums.begin(),nums.end(),c);
+            if(it!=nums.end()){
+                if((it-nums.begin())!=i){
+                    int j=it-nums.begin();
+                    return {i,j};
+                }
             }
-            hash[nums[i]]=i;
         }
-        return {};
-        
+        return {0,0};
+
     }
 };
