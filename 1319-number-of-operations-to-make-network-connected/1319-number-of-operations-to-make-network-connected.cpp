@@ -41,11 +41,13 @@ public:
             unionByRank(u,v,parent,rank);
         }
 
-        unordered_set<int> st;
+        int c=0;
         for(int i=0;i<n;i++){
-            st.insert(findup(i,parent));
+            if(i==parent[i]){
+                c++;
+            }
         }
-        int c=st.size();
+        
         return c-1;
 
 
