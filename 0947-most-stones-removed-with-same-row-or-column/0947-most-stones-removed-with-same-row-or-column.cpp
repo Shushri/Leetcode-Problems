@@ -1,7 +1,7 @@
 class Disjoint {
-    
-public:
     vector<int> rank,parent;
+public:
+    
     Disjoint(int n){
         rank.resize(n,0);
         parent.resize(n);
@@ -55,7 +55,7 @@ public:
         }
         int ans=0;
         for(auto ele:mpp){
-            if(ele.first==D.parent[ele.first]){
+            if(ele.first==D.find_ult_p(ele.first)){
                 ans++;
             }
         }
