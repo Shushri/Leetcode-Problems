@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shushri/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shushri/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Shushri/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shushri/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shushri/Leetcode-Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shushri/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shushri/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Shushri/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shushri/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shushri/Leetcode-Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shushri/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Shushri/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/Shushri/Leetcode-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shushri/Leetcode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
