@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shushri/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shushri/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shushri/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shushri/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shushri/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shushri/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shushri/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shushri/Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shushri/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/Shushri/Leetcode-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2751-robot-collisions](https://github.com/Shushri/Leetcode-Problems/tree/master/2751-robot-collisions) |
@@ -1268,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Shushri/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shushri/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shushri/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shushri/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
