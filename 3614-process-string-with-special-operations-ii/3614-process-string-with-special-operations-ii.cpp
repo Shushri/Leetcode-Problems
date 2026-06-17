@@ -1,39 +1,49 @@
 class Solution {
-    typedef long long ll;
 public:
-    char processStr(string s, ll k) {
-        int n = s.size();
-        vector<ll> lens;
-        ll len = 0;
-
-        for (auto& ch : s) {
-            if (ch == '*')
-                len = max(len - 1, 0LL);
-            else if (ch == '#')
+    char processStr(string s, long long k) {
+        long long len = 0;
+        for (char c : s) {
+            if (c == '*') {
+                len = max(0LL, len - 1);
+            }
+            else if (c == '#') {
                 len *= 2;
-            else if (ch != '%')
+            }
+            else if (c != '%') {
                 len++;
-
-            lens.push_back(len);
+            }
         }
 
         if (k >= len) return '.';
+        for (int i = (int)s.size() - 1; i >= 0; i--) {
+            char c = s[i];
 
-        for (int i = n - 1;; i--) {
-            switch (s[i]) {
-            case '*':
-                break;
-            case '#':
-                if (k >= lens[i] / 2)
-                    k -= lens[i] / 2;
-                break;
-            case '%':
-                k = lens[i] - 1 - k;
-                break;
-            default: // s[i] is a character
-                if (lens[i] == k + 1)
-                    return s[i];
+            if (c == '*') {
+                len++;
+            }
+
+            else if (c == '#') {
+                long long half = len / 2;
+
+                if (k >= half) {
+                    k -= half;
+                }
+
+                len = half;
+            }
+
+            else if (c == '%') {
+                k = len - 1 - k;
+            }
+
+            else {
+                if (k == len - 1) {
+                    return c;
+                }
+                len--;
             }
         }
+
+        return '.';
     }
 };
