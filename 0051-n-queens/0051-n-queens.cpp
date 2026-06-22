@@ -1,59 +1,35 @@
 class Solution {
 public:
-    bool isvalid(int row,int col,vector<string> &board){
-        int n=board.size();
-        int r=row;
-        int c=col;
-        //upper left diagonal
-        while(row>=0 && col>=0){
-            if(board[row][col]=='Q'){
-                return false;
-            }
-            row--;
-            col--;
-        }
-        row=r;
-        col=c;
-        //left
-        while(col>=0){
-            if(board[row][col]=='Q'){
-                return false;
-            }
-            
-            col--;
-        }
-        col=c;
-        //lower left diagonal
-        while(row<n && col>=0){
-            if(board[row][col]=='Q'){
-                return false;
-            }
-            row++;
-            col--;
-        }
-        return true;
+    void f(int col,int n, vector<vector<string>> &ans,vector<string> &arr,vector<int>& left,vector<int> &ddown,vector<int> &dup ){
 
-    }
-    bool rec(int col,int n,vector<string> &board,vector<vector<string>> & ans){
         if(col==n){
-            ans.push_back(board);
-            return true;
+            ans.push_back(arr);
+            return;
         }
 
         for(int row=0;row<n;row++){
-            if(isvalid(row,col,board)==true){
-                board[row][col]='Q';
-                rec(col+1,n,board,ans);
-                board[row][col]='.';
+            if(left[row]==0 && ddown[row+col]==0 && dup[(n-1)+(col-row)]==0){
+                arr[row][col]='Q';
+                left[row]=1;
+                ddown[row+col]=1;
+                dup[(n-1)+(col-row)]=1;
+                f(col+1,n,ans,arr,left,ddown,dup);
+                arr[row][col]='.';
+                left[row]=0;
+                ddown[row+col]=0;
+                dup[(n-1)+(col-row)]=0;
 
             }
         }
-        return false;
     }
     vector<vector<string>> solveNQueens(int n) {
-        vector<string> board(n,string(n,'.'));
         vector<vector<string>> ans;
-        rec(0,n,board,ans);
-        return ans; 
+        vector<string> arr(n,string(n,'.'));
+        vector<int> left(n,0);
+        vector<int> ddown(2*n-1,0);
+        vector<int> dup(2*n-1,0);
+        f(0,n,ans,arr,left,ddown,dup);
+
+        return ans;
     }
 };
