@@ -1,24 +1,27 @@
 class Solution {
 public:
-    void fxn(int ind,int n,vector<int> &arr,int t,vector<int>& cand, vector<vector<int>> &ans){
-        if(ind==n){
+    void f(int ind,int t,vector<int>& cand, vector<vector<int>> &ans,vector<int> &arr){
+        if(ind==cand.size()){
             if(t==0){
                 ans.push_back(arr);
+                
             }
             return;
-        } 
-        if(cand[ind]<=t){
+        }
+            
+        if(t>0 && cand[ind]<=t ){
             arr.push_back(cand[ind]);
-            fxn(ind,n,arr,t-cand[ind],cand,ans);
+            f(ind,t-cand[ind],cand,ans,arr);
             arr.pop_back();
         }
-        fxn(ind+1,n,arr,t,cand,ans);
+        f(ind+1,t,cand,ans,arr);
+
     }
     vector<vector<int>> combinationSum(vector<int>& cand, int t) {
         vector<vector<int>> ans;
         vector<int> arr;
-        fxn(0,cand.size(),arr,t,cand,ans);
+
+        f(0,t,cand,ans,arr);
         return ans;
-        
     }
 };
