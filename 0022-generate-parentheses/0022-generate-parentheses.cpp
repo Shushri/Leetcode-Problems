@@ -1,23 +1,33 @@
 class Solution {
 public:
-    vector<string> ans;
-    
-    void bracket(string s,int open,int close,int n){
-        if(s.size()==2*n){
+    void f(vector<string> &ans, string& s,int o,int c){
+        if(o==0 && c==0){
             ans.push_back(s);
             return;
         }
-        if(open<n){
-            
-            bracket(s+'(',open+1,close,n);
+        if(o>c){
+            return;
         }
-        if(close<open){
-            
-            bracket(s+')',open,close+1,n);
+        if(o>0){
+            s+='(';
+            f(ans,s,o-1,c);
+            s.pop_back();
         }
+        if(c>0){
+            s+=')';
+            f(ans,s,o,c-1);
+            s.pop_back();
+            
+
+        }
+
     }
     vector<string> generateParenthesis(int n) {
-        bracket("",0,0,n);
+        int o=n;
+        int c=n;
+        vector<string> ans;
+        string s="";
+        f(ans,s,o,c);
         return ans;
     }
 };
