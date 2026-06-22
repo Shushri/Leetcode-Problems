@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shushri/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/Shushri/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shushri/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shushri/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Shushri/Leetcode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -887,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Shushri/Leetcode-Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1189-maximum-number-of-balloons](https://github.com/Shushri/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shushri/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shushri/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1345-jump-game-iv](https://github.com/Shushri/Leetcode-Problems/tree/master/1345-jump-game-iv) |
@@ -1021,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shushri/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Shushri/Leetcode-Problems/tree/master/0621-task-scheduler) |
+| [1189-maximum-number-of-balloons](https://github.com/Shushri/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shushri/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shushri/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
