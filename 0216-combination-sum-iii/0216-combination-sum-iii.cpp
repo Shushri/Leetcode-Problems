@@ -1,26 +1,27 @@
 class Solution {
 public:
-    vector<vector<int>> ans;
-    vector<int> arr;
-    void f(int ind,int n,int k,vector<int>& nums){
+    void f(int ind,int k,int n,vector<int> &nums,vector<int> &arr,vector<vector<int>> &ans){
         if(ind==nums.size()){
-            if(n==0 && k==0){
+            if(k==0 && n==0){
                 ans.push_back(arr);
             }
-            return;
+            return; 
         }
 
-        if(n>=nums[ind]){
+        if(nums[ind]<=n){
             arr.push_back(nums[ind]);
-            f(ind+1,n-nums[ind],k-1,nums);
+            f(ind+1,k-1,n-nums[ind],nums,arr,ans);
             arr.pop_back();
         }
-        f(ind+1,n,k,nums);
+        f(ind+1,k,n,nums,arr,ans);
+
 
     }
     vector<vector<int>> combinationSum3(int k, int n) {
         vector<int> nums={1,2,3,4,5,6,7,8,9};
-        f(0,n,k,nums);
+        vector<vector<int>> ans;
+        vector<int> arr;
+        f(0,k,n,nums,arr,ans);
         return ans;
     }
 };
