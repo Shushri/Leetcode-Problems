@@ -709,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shushri/Leetcode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Binary Search
@@ -1198,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shushri/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Geometry
 |  |
