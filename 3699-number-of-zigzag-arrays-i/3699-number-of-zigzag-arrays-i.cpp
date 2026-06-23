@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int MOD = 1000000007;
+    static constexpr int MOD = 1000000007;
     int zigZagArrays(int n, int l, int r) {
         int m = r - l + 1;
         vector<int> dp(m, 1);
