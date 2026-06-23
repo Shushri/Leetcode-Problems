@@ -1,26 +1,22 @@
 class Solution {
 public:
-
-
-    int rob(vector<int>& nums) {
-        //converting to tabulation form
-        //space optimization
-        int n=nums.size();
-        
-        int prev2=nums[0];
-        int prev1=nums[0];
-        int curr=nums[0];
-        for(int i=1;i<n;i++){
-            int pick=nums[i];
-            if(i>1){
-                pick+=prev2;
-            } 
-            int npick=0+prev1;
-            curr=max(pick,npick);
-            prev2=prev1;
-            prev1=curr;
+    int f(int ind,vector<int>& nums,vector<int>& dp){
+        if(ind>=nums.size()){
+            return 0;
         }
-        return prev1;
+        if(ind==nums.size()-1){
+            return nums[ind];
+        }
+
+        if(dp[ind]!=-1) return dp[ind];
+        int take=nums[ind]+f(ind+2,nums,dp);
+        int nttake=0+f(ind+1,nums,dp);
+
+        return dp[ind]=max(take,nttake);
         
+    }
+    int rob(vector<int>& nums) {
+        vector<int> dp(nums.size()+1,-1);
+        return f(0,nums,dp);
     }
 };
