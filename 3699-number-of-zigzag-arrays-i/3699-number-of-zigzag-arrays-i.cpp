@@ -1,6 +1,6 @@
 class Solution {
 public:
-    static constexpr int MOD = 1000000007;
+    int MOD = 1000000007;
     int zigZagArrays(int n, int l, int r) {
         int m = r - l + 1;
         vector<int> dp(m, 1);
@@ -8,8 +8,12 @@ public:
         for (int i = 2; i <= n; i++) {
             reverse(dp.begin(), dp.end());
             int sum = 0;
-            for (auto& d : dp)
-                sum = (sum + exchange(d, sum)) % MOD;
+
+            for (int i = 0; i < dp.size(); i++) {
+                int old = dp[i];
+                dp[i] = sum;
+                sum = (sum + old) % MOD;
+                }
         }
 
         return ((accumulate(dp.begin(), dp.end(), 0LL) % MOD) << 1) % MOD;
