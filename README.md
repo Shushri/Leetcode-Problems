@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Shushri/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Shushri/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Shushri/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Shushri/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
