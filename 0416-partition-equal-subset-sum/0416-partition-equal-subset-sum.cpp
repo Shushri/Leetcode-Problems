@@ -8,11 +8,13 @@ public:
             return nums[0]==t;
         }
         if(dp[ind][t]!=-1) return dp[ind][t];
-        bool nttaken=f(ind-1,t,nums,tot,dp);
+        
         bool taken=false;
         if(nums[ind]<=t){
             taken=f(ind-1,t-nums[ind],nums,tot,dp);
         }
+
+        bool nttaken=f(ind-1,t,nums,tot,dp);
         return dp[ind][t]=nttaken || taken;
     }
     bool canPartition(vector<int>& nums) {
