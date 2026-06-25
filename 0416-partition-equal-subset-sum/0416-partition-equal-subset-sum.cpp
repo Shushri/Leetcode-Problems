@@ -1,31 +1,35 @@
 class Solution {
 public:
-    bool f(int ind, int t,vector<int>& nums, int tot, vector<vector<int>> &dp){
-        if(t==0){
-            return true;
-        }
-        if(ind == 0) {
-            return nums[0]==t;
-        }
-        if(dp[ind][t]!=-1) return dp[ind][t];
-        
-        bool taken=false;
-        if(nums[ind]<=t){
-            taken=f(ind-1,t-nums[ind],nums,tot,dp);
-        }
-
-        bool nttaken=f(ind-1,t,nums,tot,dp);
-        return dp[ind][t]=nttaken || taken;
-    }
     bool canPartition(vector<int>& nums) {
+        //tabulation method
         int n=nums.size();
-        int tot=accumulate(nums.begin(),nums.end(),0);
-        if(tot&1) return false; 
-        int sm=tot/2;
-        vector<vector<int>> dp(n,vector<int>(tot+1,-1));
-        return f(n-1,sm,nums,tot,dp);
 
+        int tot=accumulate(nums.begin(),nums.end(),0);
+        //odd
+        if(tot&1) return false;
+        int t=tot/2;
+        
+        vector<vector<bool>> dp(n,vector<bool>(t+1,false));
+        //target=0 is always possible
+        for(int i=0;i<n;i++){
+            dp[i][0]=true;
+            
+        }
+        //the first element of array check (base cond in recursive approach) if it is less than the target then its possible to take it otherwise false
+        if(nums[0]<=t){
+            dp[0][nums[0]]=true;
+        }
+        
+        for(int ind=1;ind<n;ind++){
+            for(int sm=1;sm<=t;sm++){
+                
+                bool take=false;
+                if(sm>=nums[ind]) take=dp[ind-1][sm-nums[ind]];
+                bool nttake=dp[ind-1][sm];
+                
+                dp[ind][sm]=take || nttake;
+            }
+        }
+        return dp[n-1][t];
     }
 };
-
-//sm+nums[0]==tot-sm-nums[0]
