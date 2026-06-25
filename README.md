@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shushri/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -796,12 +798,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/Shushri/Leetcode-Problems/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shushri/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Shushri/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Shushri/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -922,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Shushri/Leetcode-Problems/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3797-design-spreadsheet](https://github.com/Shushri/Leetcode-Problems/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Shushri/Leetcode-Problems/tree/master/3827-implement-router) |
@@ -1037,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shushri/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Shushri/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shushri/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -1209,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Geometry
 |  |
 | ------- |
