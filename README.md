@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shushri/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shushri/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Shushri/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
+| [0481-magical-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Shushri/Leetcode-Problems/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Shushri/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Shushri/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0481-magical-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0481-magical-string) |
 | [0611-valid-triangle-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Shushri/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
