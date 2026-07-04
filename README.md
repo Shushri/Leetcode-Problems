@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Shushri/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shushri/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Shushri/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/Shushri/Leetcode-Problems/tree/master/1345-jump-game-iv) |
 | [1631-path-with-minimum-effort](https://github.com/Shushri/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shushri/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shushri/Leetcode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1399,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shushri/Leetcode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1791-find-center-of-star-graph](https://github.com/Shushri/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shushri/Leetcode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shushri/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shushri/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Shushri/Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1449,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Shushri/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Shushri/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shushri/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/Shushri/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shushri/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
