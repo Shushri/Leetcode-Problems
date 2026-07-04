@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shushri/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Shushri/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Shushri/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shushri/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Shushri/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shushri/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Shushri/Leetcode-Problems/tree/master/0027-remove-element) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Shushri/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Shushri/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shushri/Leetcode-Problems/tree/master/0056-merge-intervals) |
