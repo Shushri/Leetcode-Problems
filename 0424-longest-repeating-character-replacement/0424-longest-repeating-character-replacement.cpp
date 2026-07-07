@@ -1,38 +1,25 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        unordered_set<char> st;
-        int n=s.size();
-        for(int i=0;i<n;i++){
-            st.insert(s[i]);
-        }
-        int ans=0;
-        for (auto chr:st){
-            int i=0;
-            int j=0;
-            int z=0;
-            while(j<n){
-                if(s[j]==chr){
-                    j++;
-                }
-                else{
-                    if(z==k){
-                        if(s[i]!=chr){
-                            z--;
-                        }
-                        
-                        i++;
-                    }
-                    else{
-                        z++;
-                        j++;
-                    }
+        vector<int> freq(26, 0);
 
-                    
-                }
-                ans=max(ans,j-i);
+        int i = 0;
+        int maxFreq = 0;
+        int ans = 0;
+
+        for(int j = 0; j < s.size(); j++) {
+
+            freq[s[j]-'A']++;
+            maxFreq = max(maxFreq, freq[s[j]-'A']);
+
+            while((j-i+1)-maxFreq > k) {
+                freq[s[i]-'A']--;
+                i++;
             }
+
+            ans = max(ans, j-i+1);
         }
+
         return ans;
     }
 };
