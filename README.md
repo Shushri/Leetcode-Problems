@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Shushri/Leetcode-Problems/tree/master/0831-masking-personal-information) |
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shushri/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shushri/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1048-longest-string-chain](https://github.com/Shushri/Leetcode-Problems/tree/master/1048-longest-string-chain) |
@@ -907,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Shushri/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shushri/Leetcode-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shushri/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shushri/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shushri/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -1134,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Shushri/Leetcode-Problems/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Shushri/Leetcode-Problems/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shushri/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Shushri/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
