@@ -1,28 +1,25 @@
 class Solution {
 public:
     string countAndSay(int n) {
-        string ans="1";
-        string s="";
+        if(n==1) return "1";
+        string s="1";
         for(int i=1;i<n;i++){
             int c=1;
-            s="";
-            if(ans.size()==1){
-                ans="11";
-                continue;
-            }
-            for(int j=1;j<ans.size();j++){
-                if(ans[j]==ans[j-1]){
+            string p="";
+            for(int j=1;j<s.size();j++){
+                if(s[j]==s[j-1]){
                     c++;
                 }
                 else{
-                    s=s+(char)('0'+c)+ans[j-1];
+                    p+=('0'+c);
+                    p+=s[j-1];
                     c=1;
                 }
             }
-            s=s+(char)('0'+c)+ans[ans.size()-1];
-            ans=s;
-
+            p+=('0'+c);
+            p+=s[s.size()-1];
+            s=p;
         }
-        return ans;
+        return s;
     }
 };
