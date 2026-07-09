@@ -1,41 +1,39 @@
 class Solution {
 public:
-    bool canPlaceFlowers(vector<int>& f, int n) {
+    bool canPlaceFlowers(vector<int>& fb, int n) {
+        int sz=fb.size();
         int c=0;
-        if(n==0){
-            return true;
-        }
-        if(f.size()==1 && f[0]==0){
-                return true;
-        }
-        for(int i=0;i<f.size();i++){
-            if(f[i]==0){
-                //1st ele
-                if(i==0 && f[i+1]==0){
-                    f[i]=1;
-                    c++;
-                    if(c==n){
-                        return true;
+        
+        for(int i=0;i<sz;i++){
+            if(i==0) {
+                if(fb[i]==0   ){
+                    if(i+1<sz){
+                        if(fb[i+1]==0){
+                        fb[0]=1;
+                        c++;}
                     }
-                }
-                //last ele
-                if(i==f.size()-1 && f[i-1]==0){
-                    f[i]=1;
-                    c++;
-                    if(c==n){
-                        return true;
+                    else {
+                        fb[0]=1;
+                        c++;
                     }
+                    
                 }
-                //others
-                if((i-1)>=0 && (i+1)<f.size() && f[i-1]==0 && f[i+1]==0){
-                    f[i]=1;
+                continue;
+            }
+            if(i==sz-1) {
+                if(i-1>=0 && fb[i]==0 && fb[i-1]==0 ){
+                    fb[i]=1;
                     c++;
-                    if(c==n){
-                        return true;
-                    }
+                   
                 }
+                 continue;
+            }
+            if(fb[i]==0 && fb[i-1]==0 && fb[i+1]==0){
+                fb[i]=1;
+                c++;
             }
         }
-        return false;   
+        if(c>=n) return true;
+        return false;
     }
 };
