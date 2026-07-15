@@ -1,17 +1,14 @@
 class Solution {
 public:
-    int f(int n,vector<int>& dp){
-        if(n==0){
+    int f(int n,vector<int> &dp){
+        if(n<=0){
             return 0;
         }
-        else if(n<=2){
+        if(n==1 || n==2){
             return 1;
         }
         if(dp[n]!=-1) return dp[n];
-        int a=f(n-1,dp);
-        int b=f(n-2,dp);
-        int c=f(n-3,dp);
-        return dp[n]=a+b+c;
+        return dp[n]=f(n-1,dp)+f(n-2,dp)+f(n-3,dp); 
     }
     int tribonacci(int n) {
         vector<int> dp(n+1,-1);
