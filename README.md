@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Shushri/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Shushri/Leetcode-Problems/tree/master/1664-ways-to-make-a-fair-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shushri/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shushri/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/Shushri/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Shushri/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/Shushri/Leetcode-Problems/tree/master/1048-longest-string-chain) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shushri/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shushri/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shushri/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shushri/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shushri/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shushri/Leetcode-Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shushri/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shushri/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shushri/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1007,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Shushri/Leetcode-Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shushri/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Shushri/Leetcode-Problems/tree/master/1590-make-sum-divisible-by-p) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shushri/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/Shushri/Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shushri/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shushri/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
