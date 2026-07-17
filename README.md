@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shushri/Leetcode-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/Shushri/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shushri/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Shushri/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/Shushri/Leetcode-Problems/tree/master/1345-jump-game-iv) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shushri/Leetcode-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/Shushri/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shushri/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shushri/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -1481,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/Shushri/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Shushri/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shushri/Leetcode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shushri/Leetcode-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1791-find-center-of-star-graph](https://github.com/Shushri/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shushri/Leetcode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shushri/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
