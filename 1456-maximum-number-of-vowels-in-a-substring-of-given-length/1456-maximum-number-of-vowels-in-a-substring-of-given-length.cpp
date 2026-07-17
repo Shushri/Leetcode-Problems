@@ -3,12 +3,12 @@ public:
     int maxVowels(string s, int k) {
         int n=s.size();
         vector<int> pref(n,0);
-        string vow="aeiou";
-        if(vow.find(s[0])!=string::npos){
+        
+        if(s[0]=='a' || s[0]=='e' || s[0]=='i' || s[0]=='o' || s[0]=='u'){
             pref[0]=1;
         }
         for(int i=1;i<n;i++){
-            if(vow.find(s[i])!=string::npos){
+            if(s[i]=='a' || s[i]=='e' || s[i]=='i' || s[i]=='o' || s[i]=='u'){
                 pref[i]=pref[i-1]+1;
             }
             else{
