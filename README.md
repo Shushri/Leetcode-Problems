@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Shushri/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/Shushri/Leetcode-Problems/tree/master/0636-exclusive-time-of-functions) |
+| [0643-maximum-average-subarray-i](https://github.com/Shushri/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Shushri/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/Shushri/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0682-baseball-game) |
@@ -1231,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shushri/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Shushri/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shushri/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shushri/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
