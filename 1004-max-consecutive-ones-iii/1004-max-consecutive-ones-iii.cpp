@@ -8,24 +8,20 @@ public:
         int mx=0;
         
         while(j<n){
-            if(nums[j]==1){
-                
+            if(nums[j]==1){   
                 j++;
             }
             else{
                 if(z>0){
                     z--;
-                    
                     j++;
                 }
                 else{
-                    if(nums[i]==0 && z<k){
+                    if(nums[i]==0){
                         z++;
                     }
+                    
                     i++;
-                    
-                    
-
                 }
             }
             mx=max(mx,j-i);
