@@ -5,18 +5,8 @@ public:
         int n=spells.size();
         for(int i=0;i<n;i++){
             long long req=(success+spells[i]-1)/spells[i];
-            int l=0;
-            int h=potions.size()-1;
-            while(l<=h){
-                int mid=l+(h-l)/2;
-                if(potions[mid]>=req){
-                    h=mid-1;
-                }
-                else{
-                    l=mid+1;
-                }
-            }
-            spells[i]=potions.size()-l;
+            auto it=lower_bound(potions.begin(),potions.end(),req);
+            spells[i]=potions.end()-it;
         }
         return spells;
     }
