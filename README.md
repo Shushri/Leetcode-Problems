@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Shushri/Leetcode-Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/Shushri/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shushri/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shushri/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shushri/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shushri/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -1114,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Shushri/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [0874-walking-robot-simulation](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Shushri/Leetcode-Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Shushri/Leetcode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shushri/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -1291,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Shushri/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Shushri/Leetcode-Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shushri/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shushri/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
