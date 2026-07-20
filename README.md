@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shushri/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Shushri/Leetcode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/Shushri/Leetcode-Problems/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/Shushri/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Shushri/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Shushri/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shushri/Leetcode-Problems/tree/master/0739-daily-temperatures) |
@@ -1348,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shushri/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shushri/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Shushri/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shushri/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Shushri/Leetcode-Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
