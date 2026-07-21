@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxActiveSectionsAfterTrade(string s) {
         int n=s.size();
-        int i;
+        
         int ones=0;
         for(int p=0;p<n;p++){
             if(s[p]=='1'){
@@ -10,7 +10,9 @@ public:
             }
         }
         if(ones==0 || ones==n) return ones;
+        
         int c10=0;
+        int i;
         for(i=0;i<n;i++){
             if(s[i]=='0'){
                 break;
