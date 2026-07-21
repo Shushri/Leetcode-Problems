@@ -28,7 +28,7 @@ public:
                 i++;
                 c11++;
             }
-            if(c11==0) break;
+            
             int c20=0;
             while(i<n && s[i]=='0'){
                 i++;
