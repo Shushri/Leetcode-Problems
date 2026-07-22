@@ -11,22 +11,24 @@
  */
 class Solution {
 public:
-    void f(TreeNode* root, int t, vector<vector<int>> &ans, vector<int> arr){
+    void f(TreeNode* root, int t, vector<vector<int>> &ans, vector<int> &arr){
         if(root==NULL){
             return;
         }
+        arr.push_back(root->val);
         if(!root->left && !root->right){
             if(t-root->val==0){
-                arr.push_back(root->val);
+                
                 ans.push_back(arr);
             }
-            return;
+            
+        }
+        else{
+            f(root->left,t-root->val,ans,arr);
+            f(root->right,t-root->val,ans,arr);
         }
 
-        arr.push_back(root->val);
-        t=t-root->val;
-        f(root->left,t,ans,arr)  ;
-        f(root->right,t,ans,arr);
+        arr.pop_back();
 
 
     }
