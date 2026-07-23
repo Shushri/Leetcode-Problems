@@ -1,33 +1,27 @@
 class Solution {
 public:
-    bool closeStrings(string w1, string w2) {
-        int n1=w1.size();
-        int n2=w2.size();
-        if(n1!=n2){
-            return false;
+    bool closeStrings(string word1, string word2) {
+        int n = word1.length();
+        int m = word2.length();
+        if(n!=m) return false;
+        int freq1[26]={0};
+        int freq2[26]={0};
+        for(int i=0;i<n;i++){
+            freq1[word1[i]-'a']++;
+            freq2[word2[i]-'a']++;
         }
-        set<char> st1,st2;
-        unordered_map<char,int> mp1,mp2;
-        for(int i=0;i<n1;i++){
-            st1.insert(w1[i]);
-            st2.insert(w2[i]);
-            mp1[w1[i]]++;
-            mp2[w2[i]]++;
+
+        for(int i=0;i<26;i++){
+            if((freq1[i]!=0 && freq2[i]==0)||(freq1[i]==0 && freq2[i]!=0)) return false;
         }
-        if(st1!=st2){
-            return false;
-        }
-        multiset<char> nm1,nm2;
-        for(auto ele:mp1){
-            nm1.insert(ele.second);
-        }
-        for(auto ele:mp2){
-            nm2.insert(ele.second);
-        }
-        if(nm1!=nm2){
-            return false;
+        sort(freq1,freq1+26);
+        sort(freq2,freq2+26);
+
+        for(int i=0;i<26;i++){
+            if(freq1[i]!=freq2[i]){
+                return false;
+            }
         }
         return true;
-
     }
 };
