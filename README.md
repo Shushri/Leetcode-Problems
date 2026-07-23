@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shushri/Leetcode-Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shushri/Leetcode-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/Shushri/Leetcode-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Shushri/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/Shushri/Leetcode-Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -1061,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Shushri/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shushri/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shushri/Leetcode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Shushri/Leetcode-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2615-sum-of-distances](https://github.com/Shushri/Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shushri/Leetcode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -1152,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shushri/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/Shushri/Leetcode-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shushri/Leetcode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2352-equal-row-and-column-pairs](https://github.com/Shushri/Leetcode-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Shushri/Leetcode-Problems/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shushri/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1331,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Shushri/Leetcode-Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1975-maximum-matrix-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
+| [2352-equal-row-and-column-pairs](https://github.com/Shushri/Leetcode-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2573-find-the-string-with-lcp](https://github.com/Shushri/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/2906-construct-product-matrix) |
