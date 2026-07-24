@@ -1,21 +1,31 @@
 class Solution {
 public:
     int uniqueXorTriplets(vector<int>& nums) {
-        int n=nums.size();
-        unordered_set<int> xr;
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                int p=nums[i]^nums[j];
-                xr.insert(p);
+        const int mx = 2048;
+
+        vector<int> xr2(mx, 0);
+        vector<int> xr3(mx, 0);
+
+        int n = nums.size();
+
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+                xr2[nums[i] ^ nums[j]] = 1;
             }
         }
-        unordered_set<int> ans;
-        for(auto ele:xr){
-            for(int i=0;i<n;i++){
-                int ss=ele^nums[i];
-                ans.insert(ss);
+
+        for (int x = 0; x < mx; x++) {
+            if (!xr2[x]) continue;
+            for (int v : nums) {
+                xr3[x ^ v] = true;
             }
         }
-        return ans.size();
+
+        int count = 0;
+        for(int i = 0; i < mx; i++){
+            if(xr3[i]) count++;
+        }
+
+        return count;
     }
 };
