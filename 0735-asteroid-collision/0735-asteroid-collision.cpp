@@ -8,12 +8,11 @@ public:
             while(!st.empty() && ele<0 && st.top()>0 && abs(ele)>abs(st.top())){
                 st.pop();
             }
-            if(!st.empty() && ele<0 && st.top()>0 && abs(ele)==abs(st.top())){
-                st.pop();
+            if(!st.empty() && ele<0 && st.top()>0){
+                if(abs(ele)==abs(st.top())) st.pop();
+                else{}
             }
-            else if(!st.empty() && ele<0 && st.top()>0 && abs(ele)<abs(st.top())){
-
-            }
+            
             else{
                 st.push(ele);
             }
