@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shushri/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Shushri/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shushri/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Shushri/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0932-beautiful-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0932-beautiful-array) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Shushri/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Shushri/Leetcode-Problems/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shushri/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/Shushri/Leetcode-Problems/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/Shushri/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Shushri/Leetcode-Problems/tree/master/0645-set-mismatch) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Shushri/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Shushri/Leetcode-Problems/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shushri/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Shushri/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/Shushri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Shushri/Leetcode-Problems/tree/master/0846-hand-of-straights) |
