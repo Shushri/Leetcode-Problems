@@ -1200,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Shushri/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/Shushri/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shushri/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shushri/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [3827-implement-router](https://github.com/Shushri/Leetcode-Problems/tree/master/3827-implement-router) |
@@ -1468,6 +1469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Shushri/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Shushri/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shushri/Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/Shushri/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 | [1622-fancy-sequence](https://github.com/Shushri/Leetcode-Problems/tree/master/1622-fancy-sequence) |
 | [3678-design-task-manager](https://github.com/Shushri/Leetcode-Problems/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Shushri/Leetcode-Problems/tree/master/3797-design-spreadsheet) |
@@ -1618,6 +1620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shushri/Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/Shushri/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 ## Bucket Sort
 |  |
 | ------- |
