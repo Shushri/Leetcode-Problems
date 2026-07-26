@@ -1,47 +1,48 @@
 class Solution {
 public:
     string decodeString(string s) {
-        stack<char> st;
-
-        for(char ch : s){
-            if(ch != ']'){
-                st.push(ch);
+        stack<int> cnt;
+        stack<string> st;
+        string curr="";
+        int num=0;
+        for(auto ch:s){
+            if(ch>='0' && ch<='9'){
+                num=num*10+(ch-'0');
+            }
+            else if(ch=='['){
+                st.push(curr);
+                curr="";
+                cnt.push(num);
+                num=0;
+            }
+            else if(ch==']'){
+                int n=cnt.top();
+                cnt.pop();
+                string p="";
+                for(int i=0;i<n;i++){
+                    p+=curr;
+                }
+                p=st.top()+p;
+                curr=p;
+                st.pop();
             }
             else{
-                string sub="";
-                while(!st.empty() && st.top()!='['){
-                    sub += st.top();
-                    st.pop();
-                }
-                reverse(sub.begin(), sub.end());
-
-                st.pop(); // remove '['
-
-                string nm="";
-                while(!st.empty() && isdigit(st.top())){
-                    nm += st.top();
-                    st.pop();
-                }
-                reverse(nm.begin(), nm.end());
-
-                int cnt = stoi(nm);
-
-                string temp="";
-                while(cnt--)
-                    temp += sub;
-
-                for(char c : temp)
-                    st.push(c);
+                curr+=ch;
             }
         }
 
-        string ans="";
-        while(!st.empty()){
-            ans += st.top();
-            st.pop();
-        }
-        reverse(ans.begin(), ans.end());
+        return curr;
 
-        return ans;
     }
 };
+
+//cnt=3
+//st=""
+//curr=a
+//cnt=3 2
+//st="" "a"
+//curr=ac
+//curr=acc
+//cnt=3
+//st=""
+//curr=
