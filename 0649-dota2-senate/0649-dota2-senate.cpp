@@ -15,16 +15,13 @@ public:
         int pos=n;
         while(!R.empty() && !D.empty()){
             if(R.front()>D.front()){
-                R.pop();
-                D.pop();
                 D.push(pos++);
-
             }
             else{
-                D.pop();
-                R.pop();
                 R.push(pos++);
             }
+            D.pop();
+            R.pop();
         }
         if(!R.empty()){
             return "Radiant";
