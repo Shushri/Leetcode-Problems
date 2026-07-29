@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Shushri/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Shushri/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
+| [0649-dota2-senate](https://github.com/Shushri/Leetcode-Problems/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Shushri/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Shushri/Leetcode-Problems/tree/master/0686-repeated-string-match) |
@@ -1205,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Shushri/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/Shushri/Leetcode-Problems/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Shushri/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shushri/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shushri/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
@@ -1244,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Shushri/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Shushri/Leetcode-Problems/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/Shushri/Leetcode-Problems/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Shushri/Leetcode-Problems/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Shushri/Leetcode-Problems/tree/master/0890-lemonade-change) |
