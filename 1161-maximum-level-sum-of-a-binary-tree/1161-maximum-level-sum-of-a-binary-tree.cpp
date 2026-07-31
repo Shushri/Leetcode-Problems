@@ -11,45 +11,28 @@
  */
 class Solution {
 public:
-    
-    vector<TreeNode*> f(vector<TreeNode*>& arr){
-        vector<TreeNode*> ans;
-        
-        for (auto ele:arr){
-            if(ele->left){
-                
-                ans.push_back((ele->left));
+    int maxLevelSum(TreeNode* root) {
+        queue<TreeNode*> q;
+        q.push(root);
+        int mx=INT_MIN;
+        int ans=0;
+        int lvl=1;
+        while(!q.empty()){
+            int sz=q.size();
+            int sm=0;
+            for(int i=0;i<sz;i++){
+                  TreeNode* tp=q.front();
+                  q.pop();
+                  sm+=tp->val;
+                  if(tp->left) q.push(tp->left);
+                  if(tp->right) q.push(tp->right);
             }
-            if(ele->right){
-                
-                ans.push_back((ele->right));
+            if(mx<sm){
+                mx=sm;
+                ans=lvl;
             }
+            lvl++;
         }
         return ans;
-
-    }
-    int maxLevelSum(TreeNode* root) {
-        
-        vector<TreeNode*> arr;
-        arr.push_back(root);
-        int sum=root->val;
-        int c=2;
-        int level=1;
-        while(arr.size()>0){
-            arr=f(arr);
-            if(arr.size()==0){
-                break;
-            }
-            int sm=0;
-            for(int i=0;i<arr.size();i++){
-                sm+=(arr[i]->val);
-            }
-            if(sm>sum){
-                sum=sm;
-                level=c;
-            }
-            c++;
-        }
-        return level;
     }
 };
