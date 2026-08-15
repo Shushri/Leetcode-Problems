@@ -5,9 +5,12 @@ public:
         for(int i=0;i<nums.size();i++){
             pq.push(nums[i]);
         }
-        for(int i=1;i<k;i++){
+        int ans;
+        while(k--){
+            ans=pq.top();
             pq.pop();
         }
-        return pq.top();
+        return ans;
+
     }
 };
