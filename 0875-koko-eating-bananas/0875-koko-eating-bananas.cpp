@@ -1,24 +1,24 @@
 class Solution {
 public:
-    int minEatingSpeed(vector<int>& piles, int hr) {
-        int n=piles.size();
-        int mxel=*max_element(piles.begin(),piles.end());
-        int l=1;
-        int h=mxel;
-        int ans=mxel;
-        while(l<=h){
-            int mid=l+(h-l)/2;
-            long long tt=0;
-            for(int i=0;i<n;i++){
-                tt+=(piles[i]+mid-1)/mid;
+    int minEatingSpeed(vector<int>& piles, int h) {
+        int low=1;
+        int high=*max_element(piles.begin(),piles.end());
+        int ans=0;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            long long time=0;
+            for(int i=0;i<piles.size();i++){
+                int x=piles[i];
+                int pp=(x+mid-1)/mid;
+                time+=pp;
 
             }
-            if(tt<=hr){
+            if(time<=h){
                 ans=mid;
-                h=mid-1;
+                high=mid-1;
             }
             else{
-                l=mid+1;
+                low=mid+1;
             }
         }
         return ans;
