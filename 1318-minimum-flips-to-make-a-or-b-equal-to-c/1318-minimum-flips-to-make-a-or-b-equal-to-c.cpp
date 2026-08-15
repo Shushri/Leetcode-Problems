@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minFlips(int a, int b, int c) {
-       
+        if((a | b)==c) return 0;
         int ans=0;
         while(c){
             int nc,nb,na;
