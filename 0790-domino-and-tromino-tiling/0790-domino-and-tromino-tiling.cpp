@@ -1,19 +1,24 @@
 class Solution {
 public:
     long long MOD=1e9 + 7;
-    
-    int numTilings(int n){
-
-        vector<vector<long long>> dp(n+2,vector<long long>(2,0));
-        dp[n][0]=1;
-        dp[n][1]=0;
-        for(int i=n-1;i>=0;i--){
-            dp[i][1]=(dp[i+1][0]+dp[i+1][1])%MOD;
-            dp[i][0]=(dp[i+1][0]+dp[i+2][0]+2L*dp[i+2][1])%MOD;
+    long long f(int i, int n, vector<vector<long long>> &dp,bool possible){
+        if(i==n){
+            return possible==false;
         }
-        
-
-        return dp[0][0];
+        if(i>n){
+            return 0;
+        }
+        if(dp[i][possible]!=-1) return dp[i][possible];
+        if(possible){
+            return dp[i][possible]=(f(i+1,n,dp,false)+f(i+1,n,dp,true))%MOD;
+        }
+        else{
+            return dp[i][possible]=(f(i+1,n,dp,false)+f(i+2,n,dp,false)+2*f(i+2,n,dp,true))%MOD;
+        }
+    }
+    int numTilings(int n){
+        vector<vector<long long>> dp(n+1,vector<long long>(2,-1));
+        return f(0,n,dp,false);
     }
 
 };
