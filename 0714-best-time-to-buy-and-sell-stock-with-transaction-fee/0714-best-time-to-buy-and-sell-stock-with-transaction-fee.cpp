@@ -1,20 +1,21 @@
 class Solution {
 public:
-    int f(int ind,int buy,vector<int>& p, int &fee,vector<vector<int>> &dp){
-        if(ind==p.size()){
-            return 0;
-        }
-        if(dp[ind][buy]!=-1) return dp[ind][buy];
-        if(buy){
-            return dp[ind][buy]=max(-p[ind]+f(ind+1,0,p,fee,dp),0+f(ind+1,1,p,fee,dp));
-
-        }
-        else{
-            return dp[ind][buy]=max(p[ind]+f(ind+1,1,p,fee,dp)-fee,0+f(ind+1,0,p,fee,dp));
-        }
-    }
+    
     int maxProfit(vector<int>& p, int fee) {
-        vector<vector<int>> dp(p.size()+1,vector<int>(2,-1));
-        return f(0,1,p,fee,dp);
+        int n=p.size();
+        vector<vector<int>> dp(p.size()+1,vector<int>(2,0));
+        int buy=1;
+        for(int i=n-1;i>=0;i--){
+            for(int j=1;j>=0;j--){
+                if(j){
+                    dp[i][j]=max(-p[i]+dp[i+1][0],0+dp[i+1][1]);
+                }
+                else{
+                    dp[i][j]=max(p[i]+dp[i+1][1]-fee,0+dp[i+1][0]);
+                }
+            }
+        }
+
+        return dp[0][1];
     }
 };
