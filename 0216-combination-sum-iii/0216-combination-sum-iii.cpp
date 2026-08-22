@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void f(int ind,int k,int n,vector<int> &arr,vector<int> temp,vector<vector<int>> &ans){
+    void f(int ind,int k,int n,vector<int> &arr,vector<int> &temp,vector<vector<int>> &ans){
         if(ind==9){
             if(n==0 && k==0){
                 ans.push_back(temp);
