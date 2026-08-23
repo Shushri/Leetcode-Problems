@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Shushri/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shushri/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -1092,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Shushri/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shushri/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Shushri/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
@@ -1172,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Shushri/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Shushri/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Shushri/Leetcode-Problems/tree/master/0401-binary-watch) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/Shushri/Leetcode-Problems/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Shushri/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Shushri/Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
@@ -1736,6 +1739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3093-longest-common-suffix-queries](https://github.com/Shushri/Leetcode-Problems/tree/master/3093-longest-common-suffix-queries) |
 ## Biconnected Component
 |  |
