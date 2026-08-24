@@ -10,8 +10,8 @@
 
 class Solution {
 public:
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        TreeNode* temp=root;
+    TreeNode* lowestCommonAncestor(TreeNode* temp, TreeNode* p, TreeNode* q) {
+        
         while(temp){
             if(p->val<temp->val && q->val<temp->val){
                 temp=temp->left;
