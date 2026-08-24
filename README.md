@@ -1774,4 +1774,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Shushri/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Shushri/Leetcode-Problems/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Shushri/Leetcode-Problems/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Shushri/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
