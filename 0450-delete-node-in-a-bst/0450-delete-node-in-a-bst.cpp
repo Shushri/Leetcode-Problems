@@ -11,39 +11,48 @@
  */
 class Solution {
 public:
-    TreeNode* findRight(TreeNode* root){
-        TreeNode* temp=root;
-        while(temp->right){
-            temp=temp->right;
-        }
-        return temp;
-    }
-    TreeNode* f1(TreeNode* root){
-        if(!root->left){
-            return root->right;
-        }
-        else if(!root->right){
-            return root->left;
-        }
+    TreeNode* nextconnection(TreeNode* root){
+        if(!root->left) return root->right;
+        else if(!root->right) return root->left;
         else{
-            TreeNode* nd=findRight(root->left);
-            nd->right=root->right;
+            TreeNode* r=rightmost(root->left);
+            r->right=root->right;
         }
         return root->left;
     }
-    TreeNode* deleteNode(TreeNode* root, int key) {
-        if(root==NULL) return root;
-        if(root->val==key){
-            return f1(root);
+
+    TreeNode* rightmost(TreeNode* root){
+        while(root->right){
+            root=root->right;
         }
-       
-            if(root->val>key){
-                root->left= deleteNode(root->left,key);
-            }
-            else{
-                root->right= deleteNode(root->right,key);
-            }
-        
         return root;
     }
+    TreeNode* deleteNode(TreeNode* root, int key) {
+        if(root==NULL) return NULL;
+        if(root->val==key){
+            return nextconnection(root);
+        }
+        TreeNode* temp=root;
+        while(temp){
+            if(key<temp->val){
+                if(temp->left && temp->left->val==key){
+                    temp->left=nextconnection(temp->left);
+                }
+                else{
+                    temp=temp->left;
+                }
+            }
+            else if(key>temp->val){
+                if(temp->right && temp->right->val==key){
+                    temp->right=nextconnection(temp->right);
+                }
+                else{
+                    temp=temp->right;
+                }
+            }
+
+        }
+        return root;
+    }
+    
 };
