@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Shushri/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Shushri/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/Shushri/Leetcode-Problems/tree/master/0661-image-smoother) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Shushri/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shushri/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -886,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Shushri/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shushri/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shushri/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -1003,11 +1005,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Shushri/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3161-block-placement-queries](https://github.com/Shushri/Leetcode-Problems/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Shushri/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1622-fancy-sequence](https://github.com/Shushri/Leetcode-Problems/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/Shushri/Leetcode-Problems/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1810,4 +1814,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
