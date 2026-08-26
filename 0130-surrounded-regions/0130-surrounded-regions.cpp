@@ -8,21 +8,22 @@ public:
         for(int i=0;i<n;i++){
             if(board[i][0]=='O'){
                 q.push({i,0});
+                vis[i][0]=1;
                 
             }
             if(board[i][m-1]=='O'){
                 q.push({i,m-1});
-                
+                vis[i][m-1]=1;
             }
         }
         for(int i=0;i<m;i++){
             if(board[0][i]=='O'){
                 q.push({0,i});
-                
+                vis[0][i]=1;
             }
             if(board[n-1][i]=='O'){
                 q.push({n-1,i});
-                
+                vis[n-1][i]=1;
             }
         }
         vector<int> dr={0,1,0,-1};
@@ -32,12 +33,13 @@ public:
         while(!q.empty()){
             int r=q.front().first;
             int c=q.front().second;
-            vis[r][c]=1;
+           
             q.pop();
             for(int i=0;i<4;i++){
                 int rw=r+dr[i];
                 int cl=c+dc[i];
                 if(rw>=0 && rw<n && cl>=0 && cl<m && board[rw][cl]=='O' && !vis[rw][cl]){
+                    vis[rw][cl]=1;
                     q.push({rw,cl});
                 }
             }
