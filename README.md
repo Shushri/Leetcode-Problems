@@ -1832,4 +1832,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Shushri/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
