@@ -18,7 +18,7 @@ public:
                 }
             }
             else{
-                low[nd]=min(low[nd],low[p]);
+                low[nd]=min(low[nd],tin[p]);
             }
         }
          
