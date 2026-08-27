@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Shushri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shushri/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Shushri/Leetcode-Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Shushri/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shushri/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Shushri/Leetcode-Problems/tree/master/0802-find-eventual-safe-states) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Shushri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shushri/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Shushri/Leetcode-Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Shushri/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shushri/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Shushri/Leetcode-Problems/tree/master/0802-find-eventual-safe-states) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Shushri/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shushri/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shushri/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0778-swim-in-rising-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Shushri/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/Shushri/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
@@ -958,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Shushri/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Shushri/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Shushri/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shushri/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shushri/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -1432,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Shushri/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Shushri/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Shushri/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0840-magic-squares-in-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Shushri/Leetcode-Problems/tree/master/0994-rotting-oranges) |
@@ -1599,6 +1604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shushri/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shushri/Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Shushri/Leetcode-Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shushri/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/Shushri/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Shushri/Leetcode-Problems/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -1721,6 +1727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Shushri/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Shushri/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Shushri/Leetcode-Problems/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Shushri/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Shushri/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shushri/Leetcode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -1772,6 +1779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1872-stone-game-viii](https://github.com/Shushri/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shushri/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -1820,4 +1828,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
