@@ -1,22 +1,38 @@
 class Solution {
 public:
-    string shortestPalindrome(string s) {
-        //using memcmp
-        //memcmp(a,b,length);
-        //return 0 if a==b
-        //return <0 if a<b
-        //return >0 if a>b
+    void makelps(string &s,vector<int>& lps){
+        int len=0;
+        int i=1;
         int n=s.size();
-        string rev=s;reverse(rev.begin(),rev.end());
-        
-        int ind=n;
-        for(int i=0;i<n;i++){
-            if(!memcmp(s.c_str(),rev.c_str()+i,n-i)){
-                return rev.substr(0,i)+s;
+        while(i<n){
+            if(s[i]==s[len]){
+                len++;
+                lps[i]=len;
+                i++;
+            }
+            else{
+                if(len==0){
+                    lps[i]=0;
+                    i++;
+
+                }
+                else{
+                    len=lps[len-1];
+                }
             }
         }
-        return s;
-
+    }
+    string shortestPalindrome(string s) {
+        //using lps
+        int n=s.size();
+        string rev=s;reverse(rev.begin(),rev.end());
+        string x=s+'$'+rev ;
+        vector<int> lps(x.size(),0);
+        makelps(x,lps);
+        int longestLPSlength=lps[x.size()-1];
+        string ans=rev.substr(0,n-longestLPSlength);
+        ans=ans+s;
+        return ans;
     }
 };
 
