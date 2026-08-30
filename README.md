@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shushri/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Shushri/Leetcode-Problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Shushri/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Shushri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shushri/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Shushri/Leetcode-Problems/tree/master/0743-network-delay-time) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shushri/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Shushri/Leetcode-Problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Shushri/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Shushri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shushri/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Shushri/Leetcode-Problems/tree/master/0743-network-delay-time) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Shushri/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shushri/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Shushri/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Shushri/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Shushri/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shushri/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Shushri/Leetcode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -1450,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Shushri/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Shushri/Leetcode-Problems/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/Shushri/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Shushri/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Shushri/Leetcode-Problems/tree/master/0827-making-a-large-island) |
@@ -1750,6 +1754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Shushri/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Shushri/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shushri/Leetcode-Problems/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Shushri/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Shushri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Shushri/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
