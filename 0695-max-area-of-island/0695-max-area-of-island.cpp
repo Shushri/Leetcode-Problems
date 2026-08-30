@@ -48,9 +48,9 @@ public:
         unordered_set<int> st;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j]==0 || grid[i][j]==2) continue;
+                if(grid[i][j]==0 ) continue;
                 int u=i*m+j;
-                grid[i][j]=2;
+               
                 st.insert(D.find(u));
                 for(int p=0;p<2;p++){
                     int rw=i+dr[p];
@@ -72,13 +72,3 @@ public:
     }
 };
 
-/*
-[2,1,0,1,0],
-[1,0,1,1,0],
-[1,1,1,1,1],
-[1,0,1,1,1],
-[0,0,1,0,1],
-[0,0,0,1,0],
-[1,1,1,0,1],
-[0,1,1,1,0],
-[0,1,0,1,0]]*/
