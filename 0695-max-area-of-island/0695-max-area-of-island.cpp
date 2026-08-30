@@ -45,13 +45,11 @@ public:
         vector<int> dc={1,0};
 
         DisJoint D(n*m);
-        unordered_set<int> st;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j]==0 ) continue;
                 int u=i*m+j;
                
-                st.insert(D.find(u));
                 for(int p=0;p<2;p++){
                     int rw=i+dr[p];
                     int cl=j+dc[p];
@@ -64,8 +62,13 @@ public:
         }
 
         int mx=0;
-        for(auto ele:st){
-            mx=max(mx,D.size[ele]);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]){
+                    int x=i*m+j;
+                    mx=max(mx,D.size[x]);
+                }
+            }
         }
         return mx;
 
