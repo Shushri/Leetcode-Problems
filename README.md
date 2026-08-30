@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shushri/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shushri/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Shushri/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Shushri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shushri/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Shushri/Leetcode-Problems/tree/master/0743-network-delay-time) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shushri/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shushri/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Shushri/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Shushri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shushri/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Shushri/Leetcode-Problems/tree/master/0743-network-delay-time) |
@@ -1679,6 +1681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Shushri/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Shushri/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Shushri/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Shushri/Leetcode-Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shushri/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shushri/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1746,6 +1749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shushri/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Shushri/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Shushri/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Shushri/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Shushri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Shushri/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Shushri/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
