@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Shushri/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0932-beautiful-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0932-beautiful-array) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Shushri/Leetcode-Problems/tree/master/0952-largest-component-size-by-common-factor) |
 | [1018-largest-perimeter-triangle](https://github.com/Shushri/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shushri/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Shushri/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0932-beautiful-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0932-beautiful-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shushri/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Shushri/Leetcode-Problems/tree/master/0952-largest-component-size-by-common-factor) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/Shushri/Leetcode-Problems/tree/master/0994-rotting-oranges) |
@@ -1146,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Shushri/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shushri/Leetcode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Shushri/Leetcode-Problems/tree/master/0952-largest-component-size-by-common-factor) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shushri/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Shushri/Leetcode-Problems/tree/master/1048-longest-string-chain) |
@@ -1597,6 +1600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shushri/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Shushri/Leetcode-Problems/tree/master/0952-largest-component-size-by-common-factor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shushri/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shushri/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1770,6 +1774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Shushri/Leetcode-Problems/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/Shushri/Leetcode-Problems/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shushri/Leetcode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Shushri/Leetcode-Problems/tree/master/0952-largest-component-size-by-common-factor) |
 | [1020-number-of-enclaves](https://github.com/Shushri/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Shushri/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Shushri/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -1897,4 +1902,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/Shushri/Leetcode-Problems/tree/master/0886-possible-bipartition) |
+## Prime Factorization
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Shushri/Leetcode-Problems/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
