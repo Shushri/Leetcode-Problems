@@ -1,71 +1,71 @@
 class Solution {
 public:
     bool isPossible(int n, vector<vector<int>>& edges) {
-        vector<int> deg(n+1,0);
-        set<vector<int>> st;
+        vector<int> deg(n + 1, 0);
+        
+        // Use an array of unordered_sets for O(1) edge lookups
+        vector<unordered_set<int>> adj(n + 1);
 
-        int m=edges.size();
-        for(int i=0;i<m;i++){
-            deg[edges[i][0]]++;
-            deg[edges[i][1]]++;
-            st.insert(edges[i]);
-            st.insert({edges[i][1],edges[i][0]});
+        for (const auto& edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
+            deg[u]++;
+            deg[v]++;
+            adj[u].insert(v);
+            adj[v].insert(u);
         }
+        
         vector<int> odd;
-        for(int i=0;i<=n;i++){
-            if(deg[i]%2==1){
+        for (int i = 1; i <= n; i++) {
+            if (deg[i] % 2 != 0) {
                 odd.push_back(i);
             }
         }
-        if(odd.size()==0){
+        
+        // Case 0: All nodes already have even degree
+        if (odd.empty()) {
             return true;
         }
-        if(odd.size()!=2 && odd.size()!=4){
+        
+        // It's impossible to fix if odd degree count is not 2 or 4
+        if (odd.size() != 2 && odd.size() != 4) {
             return false;
         }
-        if(odd.size()==2){
-            int a=odd[0];
-            int b=odd[1];
-            if(st.count({a,b})==0){
+        
+        // Case 1: Exactly 2 nodes have odd degrees
+        if (odd.size() == 2) {
+            int a = odd[0];
+            int b = odd[1];
+            
+            // Try connecting them directly
+            if (!adj[a].count(b)) {
                 return true;
             }
-            for(int i=1;i<=n;i++){
-                if(i!=a && i!=b){
-                    if(st.count({a,i})==0 && st.count({b,i})==0){
-                        return true;
-                    }
+            
+            // If they are already connected, try finding an intermediate node 'i'
+            for (int i = 1; i <= n; i++) {
+                if (i != a && i != b && !adj[a].count(i) && !adj[b].count(i)) {
+                    return true;
                 }
             }
-           return false;
-        }
-        if(odd.size()==4){
-            int a=odd[0];
-            int b=odd[1];
-            int c=odd[2];
-            int d=odd[3];
-            
-            
-            if(!st.count({a,b}) && !st.count({c,d})){
-                return true;
-            }
-            if(!st.count({a,c}) && !st.count({d,b})){
-                return true;
-            }
-            if(!st.count({a,d}) && !st.count({c,b})){
-                return true;
-            }
             return false;
         }
+        
+        // Case 2: Exactly 4 nodes have odd degrees
+        if (odd.size() == 4) {
+            int a = odd[0];
+            int b = odd[1];
+            int c = odd[2];
+            int d = odd[3];
+            
+            // Try the 3 possible ways to pair up the 4 nodes
+            if (!adj[a].count(b) && !adj[c].count(d)) return true;
+            if (!adj[a].count(c) && !adj[b].count(d)) return true;
+            if (!adj[a].count(d) && !adj[b].count(c)) return true;
+            
+            return false;
+        }
+        
         return false;
-
-
     }
 };
-//find out the degrees of al nodes
-//see the nodes having odd degree
-//if more than 4 nodes have odd degree... return false
-//if odd no. of nodes have odd deg ... false
-//then for these 2 and 4 nodes check all pairs if they dont already exist.
-//and 4 me bhi bas 1 ke liye saare check kro if its pair doesnt already exist... check for left 2...
-//if there are 2 and they are connected then we can have another node that is even and is not conn to a and b we can conn both and and b to c
-//4 ke case me aisa kr nhi skte... because 2 se zyada edges add nhi krni
