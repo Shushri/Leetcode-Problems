@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Shushri/Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shushri/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/Shushri/Leetcode-Problems/tree/master/2029-stone-game-ix) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Shushri/Leetcode-Problems/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shushri/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shushri/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shushri/Leetcode-Problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -1525,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shushri/Leetcode-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Shushri/Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Shushri/Leetcode-Problems/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1715,6 +1717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Shushri/Leetcode-Problems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/Shushri/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shushri/Leetcode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Shushri/Leetcode-Problems/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shushri/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Shushri/Leetcode-Problems/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shushri/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
