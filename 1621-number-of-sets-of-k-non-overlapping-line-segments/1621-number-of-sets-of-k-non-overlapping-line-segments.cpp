@@ -11,9 +11,7 @@ public:
         return modulo(modulo(a)+modulo(b)); 
     } 
     
-    int multiplyValues(int a, int b){ 
-        return modulo(modulo(a)*modulo(b)); 
-    }
+   
     
     int dp[1002][1002]; 
     int prefDp[1002][1002]; 
@@ -41,6 +39,7 @@ public:
         
         int total=0; 
         total=addValues(total,countWays(n-1,k)); 
+       
         total=addValues(total,prefixWays(n-1,k-1)); 
         
         return dp[n][k]=total; 
