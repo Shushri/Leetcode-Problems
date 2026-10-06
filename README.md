@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Shushri/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Shushri/Leetcode-Problems/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Shushri/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/Shushri/Leetcode-Problems/tree/master/1345-jump-game-iv) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shushri/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shushri/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shushri/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Shushri/Leetcode-Problems/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Shushri/Leetcode-Problems/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Shushri/Leetcode-Problems/tree/master/1345-jump-game-iv) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Shushri/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1048-longest-string-chain](https://github.com/Shushri/Leetcode-Problems/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/Shushri/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Shushri/Leetcode-Problems/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Shushri/Leetcode-Problems/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shushri/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -1195,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Shushri/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shushri/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Shushri/Leetcode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Shushri/Leetcode-Problems/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Shushri/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Shushri/Leetcode-Problems/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shushri/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1762,6 +1766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/Shushri/Leetcode-Problems/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shushri/Leetcode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/Shushri/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Shushri/Leetcode-Problems/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Shushri/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shushri/Leetcode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shushri/Leetcode-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
