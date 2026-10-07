@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Shushri/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Shushri/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Shushri/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Shushri/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Shushri/Leetcode-Problems/tree/master/0463-island-perimeter) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Shushri/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/Shushri/Leetcode-Problems/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/Shushri/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shushri/Leetcode-Problems/tree/master/0383-ransom-note) |
@@ -1572,6 +1574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Shushri/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Shushri/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Shushri/Leetcode-Problems/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shushri/Leetcode-Problems/tree/master/0797-all-paths-from-source-to-target) |
