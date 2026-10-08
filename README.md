@@ -1709,6 +1709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Shushri/Leetcode-Problems/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1631-path-with-minimum-effort](https://github.com/Shushri/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Shushri/Leetcode-Problems/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Shushri/Leetcode-Problems/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Shushri/Leetcode-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Shushri/Leetcode-Problems/tree/master/2542-maximum-subsequence-score) |
@@ -1785,6 +1786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Shushri/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shushri/Leetcode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Shushri/Leetcode-Problems/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Shushri/Leetcode-Problems/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shushri/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Shushri/Leetcode-Problems/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shushri/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -1801,6 +1803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shushri/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shushri/Leetcode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shushri/Leetcode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Shushri/Leetcode-Problems/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Shushri/Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search Tree
