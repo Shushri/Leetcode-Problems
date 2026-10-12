@@ -707,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Shushri/Leetcode-Problems/tree/master/2751-robot-collisions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shushri/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shushri/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2906-construct-product-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/2906-construct-product-matrix) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shushri/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1231,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Shushri/Leetcode-Problems/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2615-sum-of-distances](https://github.com/Shushri/Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shushri/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shushri/Leetcode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -1287,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shushri/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Shushri/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shushri/Leetcode-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shushri/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shushri/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -1444,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shushri/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/Shushri/Leetcode-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2573-find-the-string-with-lcp](https://github.com/Shushri/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shushri/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shushri/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
