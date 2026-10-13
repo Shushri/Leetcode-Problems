@@ -16,9 +16,7 @@ public:
     }
     int numDecodings(string s) {
         int n=s.size();
-        if(s[0]=='0'){
-            return 0;
-        }
+        
         vector<int> dp(n,-1);
         return f(0,s,n,dp);
 
