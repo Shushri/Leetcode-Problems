@@ -12,9 +12,9 @@ public:
         int h=n-1;
         while(l<h){
             ans-=new_nums[l]*new_nums[l];
-            cout<<ans<<" ";
+            
             ans+=new_nums[h]*new_nums[h];
-            cout<<ans<<" ";
+            
             l++;
             h--;
             
