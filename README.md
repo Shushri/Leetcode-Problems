@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Shushri/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Shushri/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Shushri/Leetcode-Problems/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Shushri/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Shushri/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Shushri/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Shushri/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shushri/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shushri/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Shushri/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Shushri/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shushri/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Shushri/Leetcode-Problems/tree/master/0198-house-robber) |
@@ -1606,6 +1608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Shushri/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Shushri/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Shushri/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Shushri/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Shushri/Leetcode-Problems/tree/master/0401-binary-watch) |
