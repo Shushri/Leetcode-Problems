@@ -2055,4 +2055,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shushri/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Shushri/Leetcode-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
