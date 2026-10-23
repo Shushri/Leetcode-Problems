@@ -768,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Shushri/Leetcode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Shushri/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1330,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shushri/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Shushri/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shushri/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## String Matching
