@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shushri/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Shushri/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/Shushri/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Shushri/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Shushri/Leetcode-Problems/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shushri/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Shushri/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Shushri/Leetcode-Problems/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Shushri/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/Shushri/Leetcode-Problems/tree/master/1345-jump-game-iv) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Shushri/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Shushri/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shushri/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Shushri/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shushri/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shushri/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -1580,6 +1583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Shushri/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Shushri/Leetcode-Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shushri/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Shushri/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shushri/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shushri/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -1908,6 +1912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shushri/Leetcode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Shushri/Leetcode-Problems/tree/master/0952-largest-component-size-by-common-factor) |
 | [1020-number-of-enclaves](https://github.com/Shushri/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Shushri/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Shushri/Leetcode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shushri/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Shushri/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
