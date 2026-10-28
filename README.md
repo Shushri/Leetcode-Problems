@@ -793,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/Shushri/Leetcode-Problems/tree/master/3827-implement-router) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shushri/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Shushri/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Shushri/Leetcode-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shushri/Leetcode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -1342,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shushri/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shushri/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Shushri/Leetcode-Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -1621,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shushri/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Shushri/Leetcode-Problems/tree/master/3797-design-spreadsheet) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
