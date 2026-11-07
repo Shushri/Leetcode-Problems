@@ -697,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Shushri/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shushri/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/Shushri/Leetcode-Problems/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shushri/Leetcode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Shushri/Leetcode-Problems/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/Shushri/Leetcode-Problems/tree/master/1901-find-a-peak-element-ii) |
@@ -1797,6 +1798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Shushri/Leetcode-Problems/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1631-path-with-minimum-effort](https://github.com/Shushri/Leetcode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shushri/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/Shushri/Leetcode-Problems/tree/master/1882-process-tasks-using-servers) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Shushri/Leetcode-Problems/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Shushri/Leetcode-Problems/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Shushri/Leetcode-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
